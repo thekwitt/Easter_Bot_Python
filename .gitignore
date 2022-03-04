@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+# Local
+token
+*.db
+discord_console_logger.txt
+IMG_0689.jpg
+settings.txt
+starboard.txt
+start.bat
+.vscode/launch.json
+versions.txt
+
 # Distribution / packaging
 .Python
 build/
