@@ -1,0 +1,782 @@
+﻿2021-11-18 15:35:36 | .-----------------------------------.
+|          Commands Loaded          |
+|-----------------------------------|
+| setchannel        | 🔹 SUCCESSFUL |
+| settings          | 🔹 SUCCESSFUL |
+| chuck             | 🔹 SUCCESSFUL |
+| collectcoal       | 🔹 SUCCESSFUL |
+| collectpresent    | 🔹 SUCCESSFUL |
+| give              | 🔹 SUCCESSFUL |
+| unwrap            | 🔹 SUCCESSFUL |
+| recycle           | 🔹 SUCCESSFUL |
+| about             | 🔹 SUCCESSFUL |
+| donate            | 🔹 SUCCESSFUL |
+| help              | 🔹 SUCCESSFUL |
+| invite            | 🔹 SUCCESSFUL |
+| privacy_policy    | 🔹 SUCCESSFUL |
+| server_stats      | 🔹 SUCCESSFUL |
+| support           | 🔹 SUCCESSFUL |
+| vote              | 🔹 SUCCESSFUL |
+| wheniscelebration | 🔹 SUCCESSFUL |
+| card              | 🔹 SUCCESSFUL |
+| leaderboard       | 🔹 SUCCESSFUL |
+| sack              | 🔹 SUCCESSFUL |
+| toybox            | 🔹 SUCCESSFUL |
+'-----------------------------------'
+﻿2021-11-18 15:35:36 | Started refreshing application (/) commands.
+﻿2021-11-18 15:35:36 | Successfully reloaded application (/) commands.
+﻿2021-11-18 15:35:37 | undefined [undefined] (674628734430478357)  -  Left the Database!
+﻿2021-11-18 15:35:53 | Bot is ready
+﻿2021-11-18 15:35:53 | nourish. [undefined] (274797033628499968)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Lunar Landing🌙 [undefined] (331353174516695044)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | PlayGame [undefined] (329232994185510922)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | 17427f55-4c6b-4a5e-8b55-0f1d1cb75f3f [undefined] (721288064198246511)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Bruh [undefined] (729981342724390932)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Hi [undefined] (732141398819733584)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | ♡ĐɆ₳Đ_ŠĘŔVĒŔ♡ [undefined] (727562537347973130)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | 楽しい一日/𝙱𝚑𝚊 𝚛𝚎𝚜𝚝𝚊𝚞𝚛𝚊𝚗𝚝 🍙🍱 [undefined] (733394674475073607)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | 🤙🏽grupa Denixa 🤙🏽 [undefined] (733717889634271332)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Jen’s Bean Club [undefined] (744620506094895154)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Pixellzz offical discord :D [undefined] (743250028491047033)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Cipher Shadows (Zook) [undefined] (237017965147455488)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Art with Tea [undefined] (475142588907782146)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Yrachy Army [undefined] (555194035573227521)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | PoDvRstE [undefined] (523523141906071555)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | Ur [undefined] (743904590738751510)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | KWitt's Vapordice [undefined] (746399419460616193)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:53 | FamilyCorrea [undefined] (755632593155653702)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Crewmates PH [undefined] (746658616307744829)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | A Discord Server [undefined] (756129162296819833)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | JUEGUITOS EKISDE [undefined] (756709671724646421)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Robertoxds [undefined] (411342610985385984)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | pepega clap [undefined] (726238427233779793)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | The Cafe [undefined] (601582309598035968)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Pruebas [undefined] (755511248489021470)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Secret Lewd Society [undefined] (757747950356004874)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | PMCO E-SPORT [undefined] (758377739265900554)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | 🌸OTAKUTAGE🌸 [undefined] (758383867916320780)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Real's Crew! [undefined] (762769342999298059)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Virgin American Airline [undefined] (764861353550282782)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Balkan Selevac [undefined] (765306524783476738)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | ➫sᴇñorᵍᵃʸ❀✿⌫'s server [undefined] (767241276218671115)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Hayden Co Christmas [undefined] (768083150151614475)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | SLURP ARMY [undefined] (772373174095708181)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | •SOÑANDO CON LUCAS• [undefined] (717819299292774430)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [undefined] (699929960483258368)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | KMCODES/NAAR CODES [undefined] (601079955564265472)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | test server [undefined] (720151157841985617)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | MShadow's server [undefined] (727523773842063440)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | The Church of El Risitas [undefined] (511367372817301506)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | DESTROYED SERVER BY MD [undefined] (510967836278259713)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | alt accs [undefined] (757107912085602335)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Test Server 1 [undefined] (773669939718258720)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Waffles Server [undefined] (772983913248849920)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Test Server 2 [undefined] (773670006331277344)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Test Sever [undefined] (775211322878459914)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | IsabellaLemonade's server [undefined] (775377239339433995)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Test Server 3 [undefined] (773670054595657748)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | holly's test server [undefined] (777961161592406058)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | 🌨 𝒩𝑜𝓇𝓉𝒽 𝒫𝑜𝓁𝑒 𝒜𝓁𝒾𝒶𝓈 ❄ [undefined] (775504863843975198)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | SUS ASS MFS FRIEND GROUP [undefined] (779183243940593694)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | 🍓-𝙎𝙩𝙧𝙖𝙬𝙗𝙚𝙧𝙧𝙮 𝙖𝙣𝙙 𝙈𝙞𝙡𝙠'𝙨 𝘾𝙖𝙣𝙙𝙮 𝙎𝙝𝙤𝙥-🥛 [undefined] (782356517961072690)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Clever's Hosted Games [undefined] (777733144072683522)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Christmas [undefined] (783486351785328671)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | ( ͡▀̿ ̿͜ʖ ͡▀̿ ̿ )PIBESxStarCrah [undefined] (783112198427902004)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Elfs on the shelf [undefined] (784064480345587773)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Joesmart3467-ROBLOX [undefined] (784866512837541921)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | ░XDXDXDXDXD [undefined] (785680695774674944)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Candy Corn [undefined] (638223752999731221)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Daily Tea [undefined] (719262288464314498)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Rather's server [undefined] (725832047045902408)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | TEAM OP!!!!! [undefined] (786082854466486292)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Holidays🎅 [undefined] (786206712138170368)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Boxen Town [undefined] (786331177590063124)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Bootiful [undefined] (786255469794557973)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | MRdragozzGG [undefined] (786631105063026708)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Bots #2 [undefined] (786680540782526464)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | JusJoliee's server [undefined] (786746739805519912)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | tiktok zqrxz's server [undefined] (786974572943114250)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | bo t [undefined] (786992359266451457)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Kayla's Whaaa- Server👻🤡 [undefined] (787015336821391450)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Natsulandia💅🐧💉 [undefined] (787051226025164861)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | navidad en proceso [undefined] (787340806401818674)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | 𝓐𝓭𝓿𝓮𝓷𝓽𝓾𝓻𝓮 𝓣𝓲𝓶𝓮 [undefined] (787399854354989066)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Fun server [undefined] (787264059925331978)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | christmas ; joy to the world [undefined] (787743361859190804)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Grupa Quizowiczów [undefined] (787754452739293217)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | i made this so we can use the marriage bot [undefined] (787926475047174184)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | |_.-*-.ђ๏ɭเ๔คץร.-*-._| [undefined] (788043559676018688)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | si quiteas sos gay [undefined] (716475869614571541)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | GAMERS DE MOVIL [undefined] (788206289964498965)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Gamer homies🎮 [undefined] (785200162590556200)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Emote Land Test [undefined] (774568415599656970)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Bot land [undefined] (789297977629212682)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Servidor de Bob Esponja [undefined] (789268498396217356)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Christmas Wish [undefined] (789485485247692801)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | No Limit [undefined] (789534405886607411)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Botsssssssssss [undefined] (789994009040388097)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Christmas time [undefined] (790921630851137536)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | 🎄.Present Servidor.🎄 [undefined] (793383602585993237)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Bathhouse Café [undefined] (815055837181378560)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | GO TEAM HEYOOOOOOOO OP!!!!!! :D [undefined] (788487382273753118)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | State 678 Discord [undefined] (821981921898790932)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Ârea Development [undefined] (852162468947820574)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | genshin ! :D [undefined] (855190176141934593)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | 𝐬𝐰𝐞𝐞𝐭 𝐟𝐨𝐫𝐞𝐬𝐭 𝐮𝐧𝐢𝐭𝐞𝐝 [undefined] (857226661157273610)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Pokémon [undefined] (869013396593475624)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | abby christmas nem [undefined] (856260682008756254)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | SERIES 13TH [undefined] (870812060005564476)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [undefined] (885378649610653727)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | The North Pole [undefined] (788107981723009055)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Yuuki edits community server [undefined] (903357360016334848)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | HELMINE.CZ [undefined] (904093801516245074)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | The gamer server [undefined] (904896370413031487)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | glacieredauto's server [undefined] (902052646440022077)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Presents [undefined] (905253218383179807)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | minecraft and discord server suggestions [undefined] (907252105541206017)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | NSFW CENTRAL [undefined] (909059046257098772)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Trenend.eu [undefined] (906597002366840893)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Swaggo Soph's Hang out [undefined] (909176187044126721)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Hazel's Christmas house [undefined] (910139907543015435)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Christmas Town [undefined] (910216849935974481)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | Save The World [undefined] (910193287099465768)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | omegas [undefined] (894210401208782849)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | The fam [undefined] (910341663547859016)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | [Desire] Community/Trading [undefined] (880822868907282482)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:54 | -ɪʟʟᴜᴍɪɴᴀᴛᴇ⍫ [undefined] (876835960309047326)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:35:56 | Bathhouse Café [74] (815055837181378560)  - Member Fetch: Role Swap
+﻿2021-11-18 15:35:56 | Bathhouse Café [74] (815055837181378560)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-18 15:35:56 | Bathhouse Café [74] (815055837181378560)  - Bot Reply: Collect Present Command
+﻿2021-11-18 15:35:58 | Top.gg stats posted!
+﻿2021-11-18 15:54:55 | Lusty Boys (18+) [101] (904594112857145416)  -  has joined us! Configuring database now!
+﻿2021-11-18 15:54:55 | Lusty Boys (18+) [101] (904594112857145416)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:55:56 | Yuuki edits community server [29] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-18 15:56:01 | Yuuki edits community server [29] (903357360016334848)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 15:56:20 | Lusty Boys (18+) [101] (904594112857145416)  -  Left the Database!
+﻿2021-11-18 15:56:42 | Lusty Boys (18+) [101] (904594112857145416)  -  has joined us! Configuring database now!
+﻿2021-11-18 15:56:42 | Lusty Boys (18+) [101] (904594112857145416)  - Guild was successfully configured and added to database!
+﻿2021-11-18 15:56:57 | Yuuki edits community server [29] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-18 15:56:57 | 🔸 ERROR Yuuki edits community server [29] (903357360016334848)  - Edit Denied: Message Create Event
+﻿2021-11-18 15:56:57 | Yuuki edits community server [29] (903357360016334848)  - Member Fetch: Role Swap
+﻿2021-11-18 15:57:01 | Lusty Boys (18+) [100] (904594112857145416)  -  Left the Database!
+﻿2021-11-18 16:01:59 | Yuuki edits community server [29] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-18 16:02:54 | Yuuki edits community server [29] (903357360016334848)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 16:02:58 | Yuuki edits community server [29] (903357360016334848)  - Already Present Reply: Message Create Event
+﻿2021-11-18 16:03:00 | Yuuki edits community server [29] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:05:53 | Top.gg stats posted!
+﻿2021-11-18 16:08:16 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Member Fetch: Role Swap
+﻿2021-11-18 16:08:16 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-18 16:08:16 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Bot Reply: Invite Command
+﻿2021-11-18 16:08:50 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 16:08:56 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-18 16:08:56 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Bot Reply: Collect Present Command
+﻿2021-11-18 16:08:58 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-18 16:08:58 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Bot Reply: Collect Present Command
+﻿2021-11-18 16:09:47 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-18 16:09:47 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - 1st Reply: LB Command
+﻿2021-11-18 16:09:47 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Fetch Reply: LB Command
+﻿2021-11-18 16:09:54 | Yuuki edits community server [29] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-18 16:09:57 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - recycle - Execution: Interaction Create Event
+﻿2021-11-18 16:09:58 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - No Present Warning Reply: Recycle Command
+﻿2021-11-18 16:10:31 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - First Send: Message Create Event
+﻿2021-11-18 16:10:33 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - zeldapotato - Present Reply: Message Create Event
+﻿2021-11-18 16:10:57 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-18 16:10:57 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - 1st Reply: LB Command
+﻿2021-11-18 16:10:57 | Yuuki edits community server [29] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:10:58 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Fetch Reply: LB Command
+﻿2021-11-18 16:11:31 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:13:12 | The gamer server [19] (904896370413031487)  - First Send: Message Create Event
+﻿2021-11-18 16:13:20 | The gamer server [19] (904896370413031487)  - TricoStar - Present Reply: Message Create Event
+﻿2021-11-18 16:14:13 | The gamer server [19] (904896370413031487)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:14:13 | The gamer server [19] (904896370413031487)  - Member Fetch: Role Swap
+﻿2021-11-18 16:18:09 | abby christmas nem [32] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-18 16:19:10 | abby christmas nem [32] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:19:10 | abby christmas nem [32] (856260682008756254)  - Member Fetch: Role Swap
+﻿2021-11-18 16:24:16 | PUPIK [5] (910922830097555526)  -  has joined us! Configuring database now!
+﻿2021-11-18 16:24:16 | PUPIK [5] (910922830097555526)  - Guild was successfully configured and added to database!
+﻿2021-11-18 16:25:27 | <3 [16] (910435071406792714)  -  has joined us! Configuring database now!
+﻿2021-11-18 16:25:27 | <3 [16] (910435071406792714)  - Guild was successfully configured and added to database!
+﻿2021-11-18 16:35:12 | Cyko Ball [16] (767147679113150494)  -  has joined us! Configuring database now!
+﻿2021-11-18 16:35:12 | Cyko Ball [16] (767147679113150494)  - Guild was successfully configured and added to database!
+﻿2021-11-18 16:35:53 | Top.gg stats posted!
+﻿2021-11-18 16:38:55 | Cyko Ball [12] (767147679113150494)  - Member Fetch: Role Swap
+﻿2021-11-18 16:38:55 | Cyko Ball [12] (767147679113150494)  - help - Execution: Interaction Create Event
+﻿2021-11-18 16:38:55 | Cyko Ball [12] (767147679113150494)  -  Overview Reply: Help Command
+﻿2021-11-18 16:39:45 | Cyko Ball [12] (767147679113150494)  - help - Execution: Interaction Create Event
+﻿2021-11-18 16:39:45 | Cyko Ball [12] (767147679113150494)  - presents: Help Command
+﻿2021-11-18 16:40:12 | Cyko Ball [12] (767147679113150494)  - help - Execution: Interaction Create Event
+﻿2021-11-18 16:40:12 | Cyko Ball [12] (767147679113150494)  - elf: Help Command
+﻿2021-11-18 16:40:28 | Cyko Ball [12] (767147679113150494)  - help - Execution: Interaction Create Event
+﻿2021-11-18 16:40:28 | Cyko Ball [12] (767147679113150494)  - list: Help Command
+﻿2021-11-18 16:41:00 | Cyko Ball [12] (767147679113150494)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 16:41:00 | Cyko Ball [12] (767147679113150494)  - Role Created.: Set Channel Command
+﻿2021-11-18 16:41:00 | Cyko Ball [12] (767147679113150494)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 16:41:15 | The gamer server [19] (904896370413031487)  - First Send: Message Create Event
+﻿2021-11-18 16:41:23 | Cyko Ball [12] (767147679113150494)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-18 16:41:23 | Cyko Ball [12] (767147679113150494)  - Bot Reply: Collect Present Command
+﻿2021-11-18 16:41:48 | Cyko Ball [12] (767147679113150494)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 16:41:48 | Cyko Ball [12] (767147679113150494)  - Empty Reply: Sack Command
+﻿2021-11-18 16:41:48 | The gamer server [19] (904896370413031487)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 16:42:01 | 𝙯𝙤𝙤 𝙤𝙛 𝙥𝙚𝙤𝙥𝙡𝙚 [18] (909062707938992168)  -  has joined us! Configuring database now!
+﻿2021-11-18 16:42:01 | 𝙯𝙤𝙤 𝙤𝙛 𝙥𝙚𝙤𝙥𝙡𝙚 [18] (909062707938992168)  - Guild was successfully configured and added to database!
+﻿2021-11-18 16:42:15 | The gamer server [19] (904896370413031487)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:42:15 | Cyko Ball [12] (767147679113150494)  - toybox - Execution: Interaction Create Event
+﻿2021-11-18 16:42:15 | Cyko Ball [12] (767147679113150494)  - Empty Reply: Toybox Command
+﻿2021-11-18 16:43:23 | Cyko Ball [12] (767147679113150494)  - chuck - Execution: Interaction Create Event
+﻿2021-11-18 16:43:23 | 🔸 ERROR Cyko Ball [12] (767147679113150494)  - chuck - Execution Failed : Interaction Create Event - Look Below
+﻿2021-11-18 16:43:23 | TypeError: Cannot read property 'toys' of undefined
+﻿2021-11-18 16:43:33 | Cyko Ball [12] (767147679113150494)  - chuck - Execution: Interaction Create Event
+﻿2021-11-18 16:43:33 | 🔸 ERROR Cyko Ball [12] (767147679113150494)  - chuck - Execution Failed : Interaction Create Event - Look Below
+﻿2021-11-18 16:43:33 | TypeError: Cannot read property 'toys' of undefined
+﻿2021-11-18 16:43:47 | Cyko Ball [12] (767147679113150494)  - chuck - Execution: Interaction Create Event
+﻿2021-11-18 16:43:47 | 🔸 ERROR Cyko Ball [12] (767147679113150494)  - chuck - Execution Failed : Interaction Create Event - Look Below
+﻿2021-11-18 16:43:47 | TypeError: Cannot read property 'toys' of undefined
+﻿2021-11-18 16:44:13 | Cyko Ball [12] (767147679113150494)  - Bot Reply: Donation Command
+﻿2021-11-18 16:44:13 | Cyko Ball [12] (767147679113150494)  - vote - Execution: Interaction Create Event
+﻿2021-11-18 16:50:47 | Cyko Ball [11] (767147679113150494)  - First Send: Message Create Event
+﻿2021-11-18 16:51:07 | The gamer server [19] (904896370413031487)  - First Send: Message Create Event
+﻿2021-11-18 16:51:47 | Cyko Ball [11] (767147679113150494)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:52:07 | The gamer server [19] (904896370413031487)  - Expired Edit: Message Create Event
+﻿2021-11-18 16:55:15 | Cyko Ball [11] (767147679113150494)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 16:55:15 | Cyko Ball [11] (767147679113150494)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 17:01:16 | Cyko Ball [11] (767147679113150494)  - First Send: Message Create Event
+﻿2021-11-18 17:01:19 | Cyko Ball [11] (767147679113150494)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 17:01:42 | Cyko Ball [11] (767147679113150494)  - Already Present Reply: Message Create Event
+﻿2021-11-18 17:02:16 | Cyko Ball [11] (767147679113150494)  - Expired Edit: Message Create Event
+﻿2021-11-18 17:04:05 | Sageleafs [22] (910188016121835600)  -  has joined us! Configuring database now!
+﻿2021-11-18 17:04:05 | Sageleafs [22] (910188016121835600)  - Guild was successfully configured and added to database!
+﻿2021-11-18 17:05:54 | Top.gg stats posted!
+﻿2021-11-18 17:07:08 | Sageleafs [22] (910188016121835600)  - Member Fetch: Role Swap
+﻿2021-11-18 17:07:08 | Sageleafs [22] (910188016121835600)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 17:07:08 | Sageleafs [22] (910188016121835600)  - Role Created.: Set Channel Command
+﻿2021-11-18 17:07:08 | Sageleafs [22] (910188016121835600)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 17:07:45 | Sageleafs [22] (910188016121835600)  - help - Execution: Interaction Create Event
+﻿2021-11-18 17:07:45 | Sageleafs [22] (910188016121835600)  - elf: Help Command
+﻿2021-11-18 17:08:04 | Sageleafs [22] (910188016121835600)  - about - Execution: Interaction Create Event
+﻿2021-11-18 17:08:04 | Sageleafs [22] (910188016121835600)  - Bot Reply: About Command
+﻿2021-11-18 17:08:14 | Sageleafs [22] (910188016121835600)  - chuck - Execution: Interaction Create Event
+﻿2021-11-18 17:08:14 | Sageleafs [22] (910188016121835600)  - Wrong present ID Warning Reply: Chuck Command
+﻿2021-11-18 17:09:06 | Sageleafs [22] (910188016121835600)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-18 17:09:06 | Sageleafs [22] (910188016121835600)  - Bot Reply: Invite Command
+﻿2021-11-18 17:11:05 | Sageleafs [22] (910188016121835600)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 17:12:23 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 17:12:35 | Sageleafs [22] (910188016121835600)  - pakin - Present Reply: Message Create Event
+﻿2021-11-18 17:12:43 | Sageleafs [22] (910188016121835600)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 17:12:43 | Sageleafs [22] (910188016121835600)  - Duplicate Reply: Sack Command
+﻿2021-11-18 17:12:43 | Sageleafs [22] (910188016121835600)  - Fetch Reply: Sack Command
+﻿2021-11-18 17:12:43 | 🔸 ERROR Sageleafs [22] (910188016121835600)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 17:12:47 | Sageleafs [22] (910188016121835600)  - Update Reply: Sack Command
+﻿2021-11-18 17:12:49 | Sageleafs [22] (910188016121835600)  - Update Reply: Sack Command
+﻿2021-11-18 17:12:50 | Sageleafs [22] (910188016121835600)  - Update Reply: Sack Command
+﻿2021-11-18 17:12:52 | Sageleafs [22] (910188016121835600)  - Update Reply: Sack Command
+﻿2021-11-18 17:13:00 | Sageleafs [22] (910188016121835600)  - Already Present Reply: Message Create Event
+﻿2021-11-18 17:13:07 | Sageleafs [22] (910188016121835600)  - X5 Gamer Yee - Present Reply: Message Create Event
+﻿2021-11-18 17:13:24 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 17:14:43 | Sageleafs [22] (910188016121835600)  - End Bag Reply: Sack Command
+﻿2021-11-18 17:16:30 | PUPIK [16] (910922830097555526)  - help - Execution: Interaction Create Event
+﻿2021-11-18 17:16:30 | PUPIK [16] (910922830097555526)  - elf: Help Command
+﻿2021-11-18 17:16:41 | PUPIK [16] (910922830097555526)  - help - Execution: Interaction Create Event
+﻿2021-11-18 17:16:41 | PUPIK [16] (910922830097555526)  - list: Help Command
+﻿2021-11-18 17:18:40 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 17:18:58 | życiolandia [6] (834091269894176779)  -  has joined us! Configuring database now!
+﻿2021-11-18 17:18:58 | życiolandia [6] (834091269894176779)  - Guild was successfully configured and added to database!
+﻿2021-11-18 17:19:00 | Sageleafs [22] (910188016121835600)  - pakin - Present Reply: Message Create Event
+﻿2021-11-18 17:19:10 | Sageleafs [22] (910188016121835600)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 17:19:10 | Sageleafs [22] (910188016121835600)  - Duplicate Reply: Sack Command
+﻿2021-11-18 17:19:10 | Sageleafs [22] (910188016121835600)  - Fetch Reply: Sack Command
+﻿2021-11-18 17:19:10 | 🔸 ERROR Sageleafs [22] (910188016121835600)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 17:19:40 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 17:21:10 | Sageleafs [22] (910188016121835600)  - End Bag Reply: Sack Command
+﻿2021-11-18 17:32:26 | <3 [16] (910435071406792714)  - Member Fetch: Role Swap
+﻿2021-11-18 17:32:26 | <3 [16] (910435071406792714)  - help - Execution: Interaction Create Event
+﻿2021-11-18 17:32:26 | <3 [16] (910435071406792714)  - list: Help Command
+﻿2021-11-18 17:32:51 | <3 [16] (910435071406792714)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 17:35:53 | Top.gg stats posted!
+﻿2021-11-18 17:37:31 | hehehe [4] (910939364652113972)  -  has joined us! Configuring database now!
+﻿2021-11-18 17:37:31 | hehehe [4] (910939364652113972)  - Guild was successfully configured and added to database!
+﻿2021-11-18 17:37:38 | [Desire] Community/Trading [95] (880822868907282482)  - Member Fetch: Role Swap
+﻿2021-11-18 17:37:38 | [Desire] Community/Trading [95] (880822868907282482)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 17:37:38 | [Desire] Community/Trading [95] (880822868907282482)  - Duplicate Reply: Sack Command
+﻿2021-11-18 17:37:38 | [Desire] Community/Trading [95] (880822868907282482)  - Fetch Reply: Sack Command
+﻿2021-11-18 17:37:38 | 🔸 ERROR [Desire] Community/Trading [95] (880822868907282482)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 17:37:49 | [Desire] Community/Trading [95] (880822868907282482)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 17:37:49 | [Desire] Community/Trading [95] (880822868907282482)  - Confirm Reply: Get Settings Command
+﻿2021-11-18 17:38:13 | ♡丂ㄖ千ㄒ|乇丂爪ㄩ丂|匚シ [94] (910513300712882276)  -  has joined us! Configuring database now!
+﻿2021-11-18 17:38:13 | ♡丂ㄖ千ㄒ|乇丂爪ㄩ丂|匚シ [94] (910513300712882276)  - Guild was successfully configured and added to database!
+﻿2021-11-18 17:38:45 | NecrocrossSG1's server [15] (805870027819057233)  -  has joined us! Configuring database now!
+﻿2021-11-18 17:38:45 | NecrocrossSG1's server [15] (805870027819057233)  - Guild was successfully configured and added to database!
+﻿2021-11-18 17:39:39 | [Desire] Community/Trading [95] (880822868907282482)  - End Bag Reply: Sack Command
+﻿2021-11-18 17:39:39 | 🔸 ERROR [Desire] Community/Trading [95] (880822868907282482)  - Edit Denied: Sack Command
+﻿2021-11-18 17:40:04 | hehehe [3] (910939364652113972)  -  Left the Database!
+﻿2021-11-18 17:42:14 | Kirumi hub [5] (910938076950454284)  -  has joined us! Configuring database now!
+﻿2021-11-18 17:42:14 | Kirumi hub [5] (910938076950454284)  - Guild was successfully configured and added to database!
+﻿2021-11-18 17:48:24 | Błyskawica game [8] (904797769456316476)  -  has joined us! Configuring database now!
+﻿2021-11-18 17:48:24 | Błyskawica game [8] (904797769456316476)  - Guild was successfully configured and added to database!
+﻿2021-11-18 17:49:19 | Błyskawica game [8] (904797769456316476)  - Member Fetch: Role Swap
+﻿2021-11-18 17:49:19 | Błyskawica game [8] (904797769456316476)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 17:49:19 | Błyskawica game [8] (904797769456316476)  - Role Created.: Set Channel Command
+﻿2021-11-18 17:49:19 | Błyskawica game [8] (904797769456316476)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 17:51:15 | Błyskawica game [8] (904797769456316476)  - give - Execution: Interaction Create Event
+﻿2021-11-18 17:51:15 | 🔸 ERROR Błyskawica game [8] (904797769456316476)  - give - Execution Failed : Interaction Create Event - Look Below
+﻿2021-11-18 17:51:15 | TypeError: Cannot read property 'presents' of undefined
+﻿2021-11-18 17:52:33 | Yuuki edits community server [28] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-18 17:53:03 | Yuuki edits community server [28] (903357360016334848)  - Yuuki senpai - Present Reply: Message Create Event
+﻿2021-11-18 17:53:34 | Yuuki edits community server [28] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-18 17:57:02 | The gamer server [19] (904896370413031487)  - First Send: Message Create Event
+﻿2021-11-18 17:57:08 | The gamer server [19] (904896370413031487)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 17:57:14 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 17:58:02 | The gamer server [19] (904896370413031487)  - Expired Edit: Message Create Event
+﻿2021-11-18 18:00:31 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 18:01:31 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 18:05:53 | Top.gg stats posted!
+﻿2021-11-18 18:06:12 | Appachan’s Malika [7] (872924388662575154)  -  has joined us! Configuring database now!
+﻿2021-11-18 18:06:12 | Appachan’s Malika [7] (872924388662575154)  - Guild was successfully configured and added to database!
+﻿2021-11-18 18:16:24 | <3 [16] (910435071406792714)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 18:28:45 | Bathhouse Café [74] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-18 18:29:45 | Bathhouse Café [74] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-18 18:30:26 | MNZ [50] (703056184038653985)  -  has joined us! Configuring database now!
+﻿2021-11-18 18:30:26 | MNZ [50] (703056184038653985)  - Guild was successfully configured and added to database!
+﻿2021-11-18 18:31:53 | MNZ [50] (703056184038653985)  - Member Fetch: Role Swap
+﻿2021-11-18 18:31:53 | MNZ [50] (703056184038653985)  - help - Execution: Interaction Create Event
+﻿2021-11-18 18:31:53 | MNZ [50] (703056184038653985)  - elf: Help Command
+﻿2021-11-18 18:32:06 | MNZ [50] (703056184038653985)  - help - Execution: Interaction Create Event
+﻿2021-11-18 18:32:06 | MNZ [50] (703056184038653985)  - list: Help Command
+﻿2021-11-18 18:33:16 | MNZ [50] (703056184038653985)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 18:33:16 | MNZ [50] (703056184038653985)  - Role Created.: Set Channel Command
+﻿2021-11-18 18:33:17 | MNZ [50] (703056184038653985)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 18:33:32 | MNZ [50] (703056184038653985)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 18:33:32 | MNZ [50] (703056184038653985)  - Confirm Reply: Get Settings Command
+﻿2021-11-18 18:33:59 | MNZ [50] (703056184038653985)  - Not Christmas Warning Reply: Unwrap Command
+﻿2021-11-18 18:33:59 | MNZ [50] (703056184038653985)  - unwrap - Execution: Interaction Create Event
+﻿2021-11-18 18:34:24 | MNZ [50] (703056184038653985)  - give - Execution: Interaction Create Event
+﻿2021-11-18 18:34:24 | MNZ [50] (703056184038653985)  - No Present Warning Reply: Give Command
+﻿2021-11-18 18:34:48 | MNZ [50] (703056184038653985)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 18:35:45 | MNZ [50] (703056184038653985)  - give - Execution: Interaction Create Event
+﻿2021-11-18 18:35:46 | 🔸 ERROR MNZ [50] (703056184038653985)  - give - Execution Failed : Interaction Create Event - Look Below
+﻿2021-11-18 18:35:46 | TypeError: Cannot read property 'presents' of undefined
+﻿2021-11-18 18:35:53 | Top.gg stats posted!
+﻿2021-11-18 18:36:04 | MNZ [50] (703056184038653985)  - give - Execution: Interaction Create Event
+﻿2021-11-18 18:36:05 | 🔸 ERROR MNZ [50] (703056184038653985)  - give - Execution Failed : Interaction Create Event - Look Below
+﻿2021-11-18 18:36:05 | TypeError: Cannot read property 'presents' of undefined
+﻿2021-11-18 18:36:21 | MNZ [50] (703056184038653985)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-18 18:36:21 | MNZ [50] (703056184038653985)  - Bot Reply: Invite Command
+﻿2021-11-18 18:37:29 | notWSB [72] (910068347029303307)  -  has joined us! Configuring database now!
+﻿2021-11-18 18:37:29 | notWSB [72] (910068347029303307)  - Guild was successfully configured and added to database!
+﻿2021-11-18 18:38:00 | 🐼 DarkRisky ~ BotList #Yeni [82] (910836485341724702)  -  has joined us! Configuring database now!
+﻿2021-11-18 18:38:00 | 🐼 DarkRisky ~ BotList #Yeni [82] (910836485341724702)  - Guild was successfully configured and added to database!
+﻿2021-11-18 18:38:53 | KWitt's Vapordice [122] (746399419460616193)  - First Send: Message Create Event
+﻿2021-11-18 18:39:10 | KWitt's Vapordice [122] (746399419460616193)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 18:39:48 | MNZ [50] (703056184038653985)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 18:39:54 | KWitt's Vapordice [122] (746399419460616193)  - Expired Edit: Message Create Event
+﻿2021-11-18 18:40:12 | notWSB [72] (910068347029303307)  - Member Fetch: Role Swap
+﻿2021-11-18 18:40:12 | notWSB [72] (910068347029303307)  - help - Execution: Interaction Create Event
+﻿2021-11-18 18:40:12 | notWSB [72] (910068347029303307)  - list: Help Command
+﻿2021-11-18 18:40:25 | MNZ [50] (703056184038653985)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 18:40:25 | MNZ [50] (703056184038653985)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 18:40:48 | MNZ [50] (703056184038653985)  - Not Christmas Warning Reply: Unwrap Command
+﻿2021-11-18 18:40:48 | MNZ [50] (703056184038653985)  - unwrap - Execution: Interaction Create Event
+﻿2021-11-18 18:40:51 | notWSB [72] (910068347029303307)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 18:41:24 | notWSB [72] (910068347029303307)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 18:41:24 | notWSB [72] (910068347029303307)  - Role Created.: Set Channel Command
+﻿2021-11-18 18:41:24 | notWSB [72] (910068347029303307)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 18:41:38 | notWSB [72] (910068347029303307)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 18:42:04 | notWSB [72] (910068347029303307)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-18 18:42:04 | notWSB [72] (910068347029303307)  - Empty LB Reply: LB Command
+﻿2021-11-18 18:42:24 | notWSB [72] (910068347029303307)  - help - Execution: Interaction Create Event
+﻿2021-11-18 18:42:24 | notWSB [72] (910068347029303307)  - setting: Help Command
+﻿2021-11-18 18:42:33 | The gamer server [19] (904896370413031487)  - First Send: Message Create Event
+﻿2021-11-18 18:42:35 | The gamer server [19] (904896370413031487)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 18:42:38 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:39 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:40 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:47 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:48 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:49 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:49 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:50 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:52 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:42:58 | The gamer server [19] (904896370413031487)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:43:12 | notWSB [72] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 18:43:12 | notWSB [72] (910068347029303307)  - Lower Number Reply: Settings 3 Command
+﻿2021-11-18 18:43:29 | notWSB [72] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 18:43:29 | notWSB [72] (910068347029303307)  - Confirm Reply: Settings 3 Command
+﻿2021-11-18 18:43:33 | The gamer server [19] (904896370413031487)  - Expired Edit: Message Create Event
+﻿2021-11-18 18:43:44 | notWSB [72] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 18:43:44 | notWSB [72] (910068347029303307)  - Confirm Reply: Get Settings Command
+﻿2021-11-18 18:44:33 | notWSB [72] (910068347029303307)  - help - Execution: Interaction Create Event
+﻿2021-11-18 18:44:33 | notWSB [72] (910068347029303307)  - elf: Help Command
+﻿2021-11-18 18:44:48 | [Desire] Community/Trading [95] (880822868907282482)  -  Left the Database!
+﻿2021-11-18 18:44:59 | notWSB [72] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 18:44:59 | notWSB [72] (910068347029303307)  - Confirm Reply: Settings 5 Command
+﻿2021-11-18 18:44:59 | 🔸 ERROR notWSB [72] (910068347029303307)  - Reply Denied: Settings 1 Command
+﻿2021-11-18 18:46:09 | [Desire] Community/Trading [96] (880822868907282482)  -  has joined us! Configuring database now!
+﻿2021-11-18 18:46:09 | [Desire] Community/Trading [96] (880822868907282482)  - Guild was successfully configured and added to database!
+﻿2021-11-18 18:49:15 | MNZ [50] (703056184038653985)  - Not Christmas Warning Reply: Unwrap Command
+﻿2021-11-18 18:49:15 | MNZ [50] (703056184038653985)  - unwrap - Execution: Interaction Create Event
+﻿2021-11-18 18:50:12 | Cyko Ball [12] (767147679113150494)  - First Send: Message Create Event
+﻿2021-11-18 18:50:23 | Cyko Ball [12] (767147679113150494)  - CykoNiko - Present Reply: Message Create Event
+﻿2021-11-18 18:50:24 | Cyko Ball [12] (767147679113150494)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 18:50:26 | Cyko Ball [12] (767147679113150494)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:50:27 | Cyko Ball [12] (767147679113150494)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:50:28 | Cyko Ball [12] (767147679113150494)  - Already Present Reply: Message Create Event
+﻿2021-11-18 18:50:41 | Cyko Ball [12] (767147679113150494)  - Empty Edit: Message Create Event
+﻿2021-11-18 18:50:41 | Cyko Ball [12] (767147679113150494)  - Beasty - Present Reply: Message Create Event
+﻿2021-11-18 18:52:43 | Cyko Ball [12] (767147679113150494)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 18:52:43 | Cyko Ball [12] (767147679113150494)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 18:58:35 | Cyko Ball [12] (767147679113150494)  - First Send: Message Create Event
+﻿2021-11-18 18:58:47 | Cyko Ball [12] (767147679113150494)  - CykoNiko - Present Reply: Message Create Event
+﻿2021-11-18 18:58:57 | beanies [32] (905965111104122940)  -  has joined us! Configuring database now!
+﻿2021-11-18 18:58:57 | beanies [32] (905965111104122940)  - Guild was successfully configured and added to database!
+﻿2021-11-18 18:59:36 | Cyko Ball [12] (767147679113150494)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:00:05 | abby christmas nem [32] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-18 19:00:43 | abby christmas nem [32] (856260682008756254)  - Shybia - Present Reply: Message Create Event
+﻿2021-11-18 19:01:06 | abby christmas nem [32] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:05:53 | Top.gg stats posted!
+﻿2021-11-18 19:08:57 | [Desire] Community/Trading [96] (880822868907282482)  - Member Fetch: Role Swap
+﻿2021-11-18 19:08:57 | [Desire] Community/Trading [96] (880822868907282482)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 19:09:57 | [Desire] Community/Trading [96] (880822868907282482)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 19:09:57 | [Desire] Community/Trading [96] (880822868907282482)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 19:10:04 | notWSB [74] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 19:10:06 | [Desire] Community/Trading [96] (880822868907282482)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:10:06 | [Desire] Community/Trading [96] (880822868907282482)  - Confirm Reply: Get Settings Command
+﻿2021-11-18 19:10:14 | Bathhouse Café [74] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-18 19:10:19 | Bathhouse Café [74] (815055837181378560)  - adrianna - Present Reply: Message Create Event
+﻿2021-11-18 19:10:28 | [Desire] Community/Trading [96] (880822868907282482)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:10:28 | [Desire] Community/Trading [96] (880822868907282482)  - Confirm Reply: Settings 4 Command
+﻿2021-11-18 19:11:04 | notWSB [74] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:11:14 | Bathhouse Café [74] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:11:54 | notWSB [74] (910068347029303307)  - help - Execution: Interaction Create Event
+﻿2021-11-18 19:11:54 | notWSB [74] (910068347029303307)  - setting: Help Command
+﻿2021-11-18 19:12:24 | notWSB [74] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:12:24 | notWSB [74] (910068347029303307)  - Confirm Reply: Settings 3 Command
+﻿2021-11-18 19:12:52 | notWSB [74] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:12:52 | notWSB [74] (910068347029303307)  - Confirm Reply: Settings 2 Command
+﻿2021-11-18 19:14:03 | notWSB [74] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:14:03 | notWSB [74] (910068347029303307)  - Confirm Reply: Settings 3 Command
+﻿2021-11-18 19:16:01 | notWSB [74] (910068347029303307)  - card - Execution: Interaction Create Event
+﻿2021-11-18 19:16:01 | notWSB [74] (910068347029303307)  - Bot Reply: Card Command
+﻿2021-11-18 19:16:39 | PUPIK [17] (910922830097555526)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 19:17:12 | PUPIK [17] (910922830097555526)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 19:17:12 | PUPIK [17] (910922830097555526)  - Role Created.: Set Channel Command
+﻿2021-11-18 19:17:12 | PUPIK [17] (910922830097555526)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 19:17:18 | notWSB [74] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:17:18 | notWSB [74] (910068347029303307)  - Confirm Reply: Settings 1 Command
+﻿2021-11-18 19:17:18 | 🔸 ERROR notWSB [74] (910068347029303307)  - Reply Denied: Settings 1 Command
+﻿2021-11-18 19:17:27 | PUPIK [17] (910922830097555526)  - card - Execution: Interaction Create Event
+﻿2021-11-18 19:17:28 | PUPIK [17] (910922830097555526)  - Bot Reply: Card Command
+﻿2021-11-18 19:17:48 | PUPIK [17] (910922830097555526)  - help - Execution: Interaction Create Event
+﻿2021-11-18 19:17:48 | PUPIK [17] (910922830097555526)  - presents: Help Command
+﻿2021-11-18 19:18:43 | notWSB [74] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 19:19:07 | notWSB [74] (910068347029303307)  - bhoodly - Present Reply: Message Create Event
+﻿2021-11-18 19:19:08 | notWSB [74] (910068347029303307)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:19:09 | PUPIK [17] (910922830097555526)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 19:19:09 | PUPIK [17] (910922830097555526)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 19:19:22 | notWSB [74] (910068347029303307)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 19:19:22 | notWSB [74] (910068347029303307)  - Duplicate Reply: Sack Command
+﻿2021-11-18 19:19:22 | notWSB [74] (910068347029303307)  - Fetch Reply: Sack Command
+﻿2021-11-18 19:19:22 | 🔸 ERROR notWSB [74] (910068347029303307)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 19:19:24 | notWSB [74] (910068347029303307)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-18 19:19:24 | notWSB [74] (910068347029303307)  - Bot Reply: Invite Command
+﻿2021-11-18 19:19:43 | notWSB [74] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:20:04 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 19:20:32 | notWSB [74] (910068347029303307)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 19:20:50 | notWSB [74] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:20:50 | notWSB [74] (910068347029303307)  - Confirm Reply: Get Settings Command
+﻿2021-11-18 19:20:57 | notWSB [74] (910068347029303307)  - Not Christmas Warning Reply: Unwrap Command
+﻿2021-11-18 19:20:57 | notWSB [74] (910068347029303307)  - unwrap - Execution: Interaction Create Event
+﻿2021-11-18 19:21:04 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:21:19 | notWSB [74] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:21:19 | notWSB [74] (910068347029303307)  - Confirm Reply: Settings 2 Command
+﻿2021-11-18 19:21:22 | notWSB [74] (910068347029303307)  - End Bag Reply: Sack Command
+﻿2021-11-18 19:22:21 | notWSB [74] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 19:22:27 | notWSB [74] (910068347029303307)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:22:33 | notWSB [74] (910068347029303307)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 19:23:01 | notWSB [74] (910068347029303307)  - server_stats - Execution: Interaction Create Event
+﻿2021-11-18 19:23:01 | notWSB [74] (910068347029303307)  - Bot Reply: About Command
+﻿2021-11-18 19:23:21 | notWSB [74] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:23:33 | notWSB [74] (910068347029303307)  - settings - Execution: Interaction Create Event
+﻿2021-11-18 19:23:33 | notWSB [74] (910068347029303307)  - Confirm Reply: Settings 4 Command
+﻿2021-11-18 19:24:15 | PUPIK [17] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 19:24:18 | PUPIK [17] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-18 19:24:19 | PUPIK [17] (910922830097555526)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:24:31 | PUPIK [17] (910922830097555526)  - Already Present Reply: Message Create Event
+﻿2021-11-18 19:24:33 | PUPIK [17] (910922830097555526)  - Already Present Reply: Message Create Event
+﻿2021-11-18 19:24:48 | Lusty Boys (18+) [98] (904594112857145416)  -  has joined us! Configuring database now!
+﻿2021-11-18 19:24:48 | Lusty Boys (18+) [98] (904594112857145416)  - Guild was successfully configured and added to database!
+﻿2021-11-18 19:25:15 | PUPIK [17] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:27:37 | Lusty Boys (18+) [98] (904594112857145416)  - Member Fetch: Role Swap
+﻿2021-11-18 19:27:37 | Lusty Boys (18+) [98] (904594112857145416)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 19:27:37 | Lusty Boys (18+) [98] (904594112857145416)  - Role Created.: Set Channel Command
+﻿2021-11-18 19:27:38 | Lusty Boys (18+) [98] (904594112857145416)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 19:28:24 | Lusty Boys (18+) [98] (904594112857145416)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-18 19:28:24 | Lusty Boys (18+) [98] (904594112857145416)  - Bot Reply: Invite Command
+﻿2021-11-18 19:29:15 | Lusty Boys (18+) [98] (904594112857145416)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 19:29:25 | #Steady [10] (910908950831059014)  -  has joined us! Configuring database now!
+﻿2021-11-18 19:29:25 | #Steady [10] (910908950831059014)  - Guild was successfully configured and added to database!
+﻿2021-11-18 19:29:26 | Lusty Boys (18+) [98] (904594112857145416)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-18 19:29:26 | Lusty Boys (18+) [98] (904594112857145416)  - Bot Reply: Collect Present Command
+﻿2021-11-18 19:29:50 | Lusty Boys (18+) [98] (904594112857145416)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 19:29:50 | Lusty Boys (18+) [98] (904594112857145416)  - Duplicate Reply: Sack Command
+﻿2021-11-18 19:29:50 | Lusty Boys (18+) [98] (904594112857145416)  - Fetch Reply: Sack Command
+﻿2021-11-18 19:29:50 | 🔸 ERROR Lusty Boys (18+) [98] (904594112857145416)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 19:29:50 | notWSB [74] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 19:30:33 | Lusty Boys (18+) [98] (904594112857145416)  - Not Christmas Warning Reply: Unwrap Command
+﻿2021-11-18 19:30:33 | Lusty Boys (18+) [98] (904594112857145416)  - unwrap - Execution: Interaction Create Event
+﻿2021-11-18 19:30:50 | notWSB [74] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:31:22 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 19:31:25 | PUPIK [17] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 19:31:33 | PUPIK [17] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-18 19:31:50 | Lusty Boys (18+) [98] (904594112857145416)  - End Bag Reply: Sack Command
+﻿2021-11-18 19:31:50 | 🔸 ERROR Lusty Boys (18+) [98] (904594112857145416)  - Edit Denied: Sack Command
+﻿2021-11-18 19:32:23 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:32:25 | PUPIK [17] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:35:53 | Top.gg stats posted!
+﻿2021-11-18 19:36:57 | #Steady [18] (910908950831059014)  - Member Fetch: Role Swap
+﻿2021-11-18 19:36:57 | #Steady [18] (910908950831059014)  - help - Execution: Interaction Create Event
+﻿2021-11-18 19:36:57 | #Steady [18] (910908950831059014)  - presents: Help Command
+﻿2021-11-18 19:37:25 | #Steady [18] (910908950831059014)  - help - Execution: Interaction Create Event
+﻿2021-11-18 19:37:25 | #Steady [18] (910908950831059014)  - list: Help Command
+﻿2021-11-18 19:37:26 | PUPIK [17] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 19:37:43 | PUPIK [17] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-18 19:37:43 | PUPIK [17] (910922830097555526)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:37:47 | PUPIK [17] (910922830097555526)  - Already Present Reply: Message Create Event
+﻿2021-11-18 19:37:51 | PUPIK [17] (910922830097555526)  - Already Present Reply: Message Create Event
+﻿2021-11-18 19:38:07 | #Steady [18] (910908950831059014)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 19:38:26 | PUPIK [17] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:38:27 | Cyko Ball [12] (767147679113150494)  - First Send: Message Create Event
+﻿2021-11-18 19:38:37 | Cyko Ball [12] (767147679113150494)  - CykoNiko - Present Reply: Message Create Event
+﻿2021-11-18 19:38:59 | Cyko Ball [12] (767147679113150494)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:39:04 | Cyko Ball [12] (767147679113150494)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 19:39:04 | Cyko Ball [12] (767147679113150494)  - Duplicate Reply: Sack Command
+﻿2021-11-18 19:39:04 | Cyko Ball [12] (767147679113150494)  - Fetch Reply: Sack Command
+﻿2021-11-18 19:39:04 | 🔸 ERROR Cyko Ball [12] (767147679113150494)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 19:39:17 | Cyko Ball [12] (767147679113150494)  - Update Reply: Sack Command
+﻿2021-11-18 19:39:19 | Cyko Ball [12] (767147679113150494)  - Update Reply: Sack Command
+﻿2021-11-18 19:39:27 | Cyko Ball [12] (767147679113150494)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:41:04 | Cyko Ball [12] (767147679113150494)  - End Bag Reply: Sack Command
+﻿2021-11-18 19:43:31 | PUPIK [17] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 19:43:49 | PUPIK [17] (910922830097555526)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:44:11 | PUPIK [17] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-18 19:44:19 | PUPIK [17] (910922830097555526)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 19:44:19 | PUPIK [17] (910922830097555526)  - Duplicate Reply: Sack Command
+﻿2021-11-18 19:44:19 | PUPIK [17] (910922830097555526)  - Fetch Reply: Sack Command
+﻿2021-11-18 19:44:19 | 🔸 ERROR PUPIK [17] (910922830097555526)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 19:44:21 | PUPIK [17] (910922830097555526)  - Update Reply: Sack Command
+﻿2021-11-18 19:44:23 | PUPIK [17] (910922830097555526)  - Update Reply: Sack Command
+﻿2021-11-18 19:44:24 | PUPIK [17] (910922830097555526)  - Last Page Bag Reply: Sack Command
+﻿2021-11-18 19:44:30 | PUPIK [17] (910922830097555526)  - Update Reply: Sack Command
+﻿2021-11-18 19:44:32 | PUPIK [17] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:44:32 | PUPIK [17] (910922830097555526)  - Update Reply: Sack Command
+﻿2021-11-18 19:46:19 | PUPIK [17] (910922830097555526)  - End Bag Reply: Sack Command
+﻿2021-11-18 19:49:09 | abby christmas nem [32] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-18 19:49:38 | PUPIK [18] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 19:49:40 | PUPIK [18] (910922830097555526)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:49:43 | PUPIK [18] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-18 19:50:09 | abby christmas nem [32] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:50:38 | PUPIK [18] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:52:16 | The gamer server [19] (904896370413031487)  - First Send: Message Create Event
+﻿2021-11-18 19:53:09 | The gamer server [19] (904896370413031487)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:53:17 | The gamer server [19] (904896370413031487)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:54:54 | notWSB [75] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 19:55:05 | notWSB [75] (910068347029303307)  - mamabear - Present Reply: Message Create Event
+﻿2021-11-18 19:55:29 | notWSB [75] (910068347029303307)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 19:55:29 | notWSB [75] (910068347029303307)  - Duplicate Reply: Sack Command
+﻿2021-11-18 19:55:30 | notWSB [75] (910068347029303307)  - Fetch Reply: Sack Command
+﻿2021-11-18 19:55:30 | 🔸 ERROR notWSB [75] (910068347029303307)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 19:55:38 | notWSB [75] (910068347029303307)  - Update Reply: Sack Command
+﻿2021-11-18 19:55:41 | notWSB [75] (910068347029303307)  - Update Reply: Sack Command
+﻿2021-11-18 19:55:44 | notWSB [75] (910068347029303307)  - Last Page Bag Reply: Sack Command
+﻿2021-11-18 19:55:48 | PUPIK [18] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 19:55:51 | PUPIK [18] (910922830097555526)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 19:55:55 | notWSB [75] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:56:09 | Bathhouse Café [74] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-18 19:56:14 | Bathhouse Café [74] (815055837181378560)  - •Pui• - Present Reply: Message Create Event
+﻿2021-11-18 19:56:48 | PUPIK [18] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:57:09 | Bathhouse Café [74] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-18 19:57:30 | notWSB [75] (910068347029303307)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:02:12 | PUPIK [18] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 20:02:14 | PUPIK [18] (910922830097555526)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:02:31 | PUPIK [18] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-18 20:02:49 | PUPIK [18] (910922830097555526)  - Already Present Reply: Message Create Event
+﻿2021-11-18 20:02:53 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 20:02:57 | Sageleafs [22] (910188016121835600)  - pakin - Present Reply: Message Create Event
+﻿2021-11-18 20:03:12 | PUPIK [18] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:03:53 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:05:53 | Top.gg stats posted!
+﻿2021-11-18 20:06:26 | notWSB [75] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 20:06:29 | notWSB [75] (910068347029303307)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:06:37 | notWSB [75] (910068347029303307)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 20:07:11 | notWSB [75] (910068347029303307)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:07:11 | notWSB [75] (910068347029303307)  - Empty Reply: Sack Command
+﻿2021-11-18 20:07:26 | notWSB [75] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:09:34 | abby christmas nem [32] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-18 20:10:34 | abby christmas nem [32] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:13:59 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - chuck - Execution: Interaction Create Event
+﻿2021-11-18 20:13:59 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Wrong present ID Warning Reply: Chuck Command
+﻿2021-11-18 20:16:50 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 20:17:13 | Sageleafs [22] (910188016121835600)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:17:32 | Sageleafs [22] (910188016121835600)  - Already Present Reply: Message Create Event
+﻿2021-11-18 20:17:50 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:18:05 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:18:05 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:18:06 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:18:06 | 🔸 ERROR ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:18:18 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - toybox - Execution: Interaction Create Event
+﻿2021-11-18 20:18:18 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Empty Reply: Toybox Command
+﻿2021-11-18 20:19:25 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-18 20:19:25 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - 1st Reply: LB Command
+﻿2021-11-18 20:19:25 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Fetch Reply: LB Command
+﻿2021-11-18 20:19:28 | notWSB [75] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 20:19:39 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:19:39 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:19:39 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:19:39 | 🔸 ERROR ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:19:43 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Update Reply: Sack Command
+﻿2021-11-18 20:19:45 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Update Reply: Sack Command
+﻿2021-11-18 20:19:47 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Last Page Bag Reply: Sack Command
+﻿2021-11-18 20:19:49 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Update Reply: Sack Command
+﻿2021-11-18 20:19:50 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Update Reply: Sack Command
+﻿2021-11-18 20:19:56 | notWSB [75] (910068347029303307)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:20:06 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:20:26 | notWSB [75] (910068347029303307)  - card - Execution: Interaction Create Event
+﻿2021-11-18 20:20:27 | notWSB [75] (910068347029303307)  - Bot Reply: Card Command
+﻿2021-11-18 20:20:28 | notWSB [75] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:20:45 | notWSB [75] (910068347029303307)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-18 20:20:46 | notWSB [75] (910068347029303307)  - Bot Reply: Collect Present Command
+﻿2021-11-18 20:21:39 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:22:42 | 🎄La cuccia dei Gatti🎄 [31] (909492652859326536)  -  has joined us! Configuring database now!
+﻿2021-11-18 20:22:42 | 🎄La cuccia dei Gatti🎄 [31] (909492652859326536)  - Guild was successfully configured and added to database!
+﻿2021-11-18 20:23:03 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 20:23:04 | notWSB [75] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 20:23:09 | notWSB [75] (910068347029303307)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:23:46 | notWSB [75] (910068347029303307)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-18 20:23:46 | notWSB [75] (910068347029303307)  - Bot Reply: Collect Present Command
+﻿2021-11-18 20:23:49 | notWSB [75] (910068347029303307)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:23:49 | notWSB [75] (910068347029303307)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:23:50 | notWSB [75] (910068347029303307)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:23:50 | 🔸 ERROR notWSB [75] (910068347029303307)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:23:53 | notWSB [75] (910068347029303307)  - Update Reply: Sack Command
+﻿2021-11-18 20:23:55 | notWSB [75] (910068347029303307)  - Update Reply: Sack Command
+﻿2021-11-18 20:24:04 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:24:04 | notWSB [75] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:24:53 | notWSB [75] (910068347029303307)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 20:25:50 | notWSB [75] (910068347029303307)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:29:07 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 20:29:09 | Reema’s Rad Club [6] (908937559768449045)  -  has joined us! Configuring database now!
+﻿2021-11-18 20:29:09 | Reema’s Rad Club [6] (908937559768449045)  - Guild was successfully configured and added to database!
+﻿2021-11-18 20:29:44 | notWSB [75] (910068347029303307)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-18 20:29:44 | notWSB [75] (910068347029303307)  - 1st Reply: LB Command
+﻿2021-11-18 20:29:44 | notWSB [75] (910068347029303307)  - Fetch Reply: LB Command
+﻿2021-11-18 20:30:01 | Sageleafs [22] (910188016121835600)  - Socks - Present Reply: Message Create Event
+﻿2021-11-18 20:30:07 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:30:19 | notWSB [75] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 20:30:21 | TEAM RCC [5] (899913944800579604)  -  has joined us! Configuring database now!
+﻿2021-11-18 20:30:21 | TEAM RCC [5] (899913944800579604)  - Guild was successfully configured and added to database!
+﻿2021-11-18 20:30:30 | notWSB [75] (910068347029303307)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:30:42 | notWSB [75] (910068347029303307)  - Already Present Reply: Message Create Event
+﻿2021-11-18 20:31:19 | notWSB [75] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:31:35 | notWSB [75] (910068347029303307)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-18 20:31:35 | notWSB [75] (910068347029303307)  - Chuck Reply: Collect Command
+﻿2021-11-18 20:34:11 | Kirumi hub [11] (910938076950454284)  - Member Fetch: Role Swap
+﻿2021-11-18 20:34:11 | Kirumi hub [11] (910938076950454284)  - No Channel Reply: Interaction Create Event
+﻿2021-11-18 20:34:33 | Kirumi hub [11] (910938076950454284)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-18 20:34:33 | Kirumi hub [11] (910938076950454284)  - Role Created.: Set Channel Command
+﻿2021-11-18 20:34:33 | Kirumi hub [11] (910938076950454284)  - Confirm Reply: Set Channel Command
+﻿2021-11-18 20:34:42 | Kirumi hub [11] (910938076950454284)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-18 20:35:19 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 20:35:54 | Top.gg stats posted!
+﻿2021-11-18 20:36:19 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:41:43 | PUPIK [18] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 20:41:46 | PUPIK [18] (910922830097555526)  - RexalQuality - Present Reply: Message Create Event
+﻿2021-11-18 20:41:57 | notWSB [76] (910068347029303307)  - First Send: Message Create Event
+﻿2021-11-18 20:42:02 | PUPIK [18] (910922830097555526)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:42:02 | PUPIK [18] (910922830097555526)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:42:03 | PUPIK [18] (910922830097555526)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:42:03 | 🔸 ERROR PUPIK [18] (910922830097555526)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:42:09 | PUPIK [18] (910922830097555526)  - Update Reply: Sack Command
+﻿2021-11-18 20:42:12 | PUPIK [18] (910922830097555526)  - Update Reply: Sack Command
+﻿2021-11-18 20:42:28 | notWSB [76] (910068347029303307)  - dariene - Present Reply: Message Create Event
+﻿2021-11-18 20:42:37 | notWSB [76] (910068347029303307)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:42:37 | notWSB [76] (910068347029303307)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:42:37 | notWSB [76] (910068347029303307)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:42:37 | 🔸 ERROR notWSB [76] (910068347029303307)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:42:38 | SERIES 13TH [41] (870812060005564476)  - First Send: Message Create Event
+﻿2021-11-18 20:42:41 | notWSB [76] (910068347029303307)  - Update Reply: Sack Command
+﻿2021-11-18 20:42:43 | PUPIK [18] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:42:43 | notWSB [76] (910068347029303307)  - Update Reply: Sack Command
+﻿2021-11-18 20:42:52 | SERIES 13TH [41] (870812060005564476)  - ⛧ΜΙLIΤΙΛ⛧ - Present Reply: Message Create Event
+﻿2021-11-18 20:42:57 | notWSB [76] (910068347029303307)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:43:00 | notWSB [76] (910068347029303307)  - chuck - Execution: Interaction Create Event
+﻿2021-11-18 20:43:00 | notWSB [76] (910068347029303307)  - Gave ID Reply: Chuck Command
+﻿2021-11-18 20:43:38 | SERIES 13TH [41] (870812060005564476)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:43:38 | SERIES 13TH [41] (870812060005564476)  - Member Fetch: Role Swap
+﻿2021-11-18 20:44:03 | PUPIK [18] (910922830097555526)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:44:37 | notWSB [76] (910068347029303307)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:44:37 | 🔸 ERROR notWSB [76] (910068347029303307)  - Edit Denied: Sack Command
+﻿2021-11-18 20:44:47 | abby christmas nem [32] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-18 20:45:14 | Sageleafs [22] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-18 20:45:16 | abby christmas nem [32] (856260682008756254)  - em' - Present Reply: Message Create Event
+﻿2021-11-18 20:45:34 | Yuuki edits community server [28] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-18 20:45:39 | Yuuki edits community server [28] (903357360016334848)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:45:45 | Yuuki edits community server [28] (903357360016334848)  - Already Present Reply: Message Create Event
+﻿2021-11-18 20:45:47 | abby christmas nem [32] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:45:57 | Yuuki edits community server [28] (903357360016334848)  - fnafenard - Present Reply: Message Create Event
+﻿2021-11-18 20:46:02 | Yuuki edits community server [28] (903357360016334848)  - Already Present Reply: Message Create Event
+﻿2021-11-18 20:46:04 | Yuuki edits community server [28] (903357360016334848)  - Already Present Reply: Message Create Event
+﻿2021-11-18 20:46:05 | Yuuki edits community server [28] (903357360016334848)  - Already Present Reply: Message Create Event
+﻿2021-11-18 20:46:15 | Sageleafs [22] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:46:26 | Yuuki edits community server [28] (903357360016334848)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:46:26 | Yuuki edits community server [28] (903357360016334848)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:46:26 | Yuuki edits community server [28] (903357360016334848)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:46:26 | 🔸 ERROR Yuuki edits community server [28] (903357360016334848)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:46:33 | Yuuki edits community server [28] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-18 20:46:34 | Yuuki edits community server [28] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:46:35 | Yuuki edits community server [28] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-18 20:46:37 | Yuuki edits community server [28] (903357360016334848)  - Last Page Bag Reply: Sack Command
+﻿2021-11-18 20:48:26 | Yuuki edits community server [28] (903357360016334848)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:50:08 | PUPIK [18] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-18 20:50:11 | PUPIK [18] (910922830097555526)  - ciresel - Present Reply: Message Create Event
+﻿2021-11-18 20:50:22 | PUPIK [18] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-18 20:50:24 | PUPIK [18] (910922830097555526)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:50:24 | PUPIK [18] (910922830097555526)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:50:24 | PUPIK [18] (910922830097555526)  - Empty Edit: Message Create Event
+﻿2021-11-18 20:50:24 | PUPIK [18] (910922830097555526)  - RexalQuality - Present Reply: Message Create Event
+﻿2021-11-18 20:50:24 | PUPIK [18] (910922830097555526)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:50:24 | 🔸 ERROR PUPIK [18] (910922830097555526)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:50:29 | PUPIK [18] (910922830097555526)  - Update Reply: Sack Command
+﻿2021-11-18 20:50:40 | my server dhueiruvbrbvr [6] (906967077783498752)  -  has joined us! Configuring database now!
+﻿2021-11-18 20:50:40 | my server dhueiruvbrbvr [6] (906967077783498752)  - Guild was successfully configured and added to database!
+﻿2021-11-18 20:50:47 | PUPIK [18] (910922830097555526)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:50:47 | PUPIK [18] (910922830097555526)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:50:48 | PUPIK [18] (910922830097555526)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:50:48 | 🔸 ERROR PUPIK [18] (910922830097555526)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:51:45 | Yuuki edits community server [28] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-18 20:51:56 | Yuuki edits community server [28] (903357360016334848)  - fnafenard - Present Reply: Message Create Event
+﻿2021-11-18 20:52:09 | Yuuki edits community server [28] (903357360016334848)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:52:09 | Yuuki edits community server [28] (903357360016334848)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:52:09 | Yuuki edits community server [28] (903357360016334848)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:52:09 | 🔸 ERROR Yuuki edits community server [28] (903357360016334848)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:52:13 | Yuuki edits community server [28] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-18 20:52:15 | Yuuki edits community server [28] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-18 20:52:17 | Yuuki edits community server [28] (903357360016334848)  - Last Page Bag Reply: Sack Command
+﻿2021-11-18 20:52:24 | PUPIK [18] (910922830097555526)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:52:45 | Yuuki edits community server [28] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:52:48 | PUPIK [18] (910922830097555526)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:52:55 | SERIES 13TH [41] (870812060005564476)  - First Send: Message Create Event
+﻿2021-11-18 20:53:55 | SERIES 13TH [41] (870812060005564476)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:54:09 | Yuuki edits community server [28] (903357360016334848)  - End Bag Reply: Sack Command
+﻿2021-11-18 20:54:19 | Kirumi hub [12] (910938076950454284)  - First Send: Message Create Event
+﻿2021-11-18 20:54:34 | Kirumi hub [12] (910938076950454284)  - Xen - Present Reply: Message Create Event
+﻿2021-11-18 20:54:42 | Kirumi hub [12] (910938076950454284)  - sack - Execution: Interaction Create Event
+﻿2021-11-18 20:54:42 | Kirumi hub [12] (910938076950454284)  - Duplicate Reply: Sack Command
+﻿2021-11-18 20:54:42 | Kirumi hub [12] (910938076950454284)  - Fetch Reply: Sack Command
+﻿2021-11-18 20:54:42 | 🔸 ERROR Kirumi hub [12] (910938076950454284)  - Fetch Reply Denied: Sack Command
+﻿2021-11-18 20:54:48 | Kirumi hub [12] (910938076950454284)  - Update Reply: Sack Command
+﻿2021-11-18 20:54:51 | Kirumi hub [12] (910938076950454284)  - Update Reply: Sack Command
+﻿2021-11-18 20:54:53 | Kirumi hub [12] (910938076950454284)  - Last Page Bag Reply: Sack Command
+﻿2021-11-18 20:55:09 | SERIES 13TH [41] (870812060005564476)  - First Send: Message Create Event
+﻿2021-11-18 20:55:19 | Kirumi hub [11] (910938076950454284)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:56:00 | The gamer server [19] (904896370413031487)  - First Send: Message Create Event
+﻿2021-11-18 20:56:07 | The gamer server [19] (904896370413031487)  - Present Failed Reply: Message Create Event
+﻿2021-11-18 20:56:09 | SERIES 13TH [41] (870812060005564476)  - Expired Edit: Message Create Event
+﻿2021-11-18 20:56:19 | The Literature Club [10] (890718560098336779)  -  has joined us! Configuring database now!

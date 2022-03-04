@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "map": "Placeholder",
+  "coney": {
+	"name": "The Coney Stronghold",
+    "description": "The Coney Stronghold is the Central Plain of the Land of Coneyford. Full of villages and a thriving Castle for the Jethro The King.\n\nIt was once a beautiful sight to behold but now disrupted by arcane energy. Half of the villages became terraformed and uninhabitable.\n\nHowever, the castle walls were strong enough to resist the crimson wrath. Most of the refugees from the corrupted villages now rest inside the castle along with the King.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "hulking": {
+	"name": "The Hulking Fields",
+    "description": "The Hulking Fields was nothing but flat terrain and excellent soil. You could go for long walks without disruption and allow the gentle breeze to brush against your face.\n\nNow with the storm, the terrain has broken apart and levitated. In the vast distance, you can see hundreds of craters with Islands floating above them. While there are still ways to grow food, it is incredibly difficult.\n\nMany of the conoras have created ways to get up to the soil of the islands and harvest food that was left there. Some have sacrificed their lives in order to bring their own people what they need.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "woodlands": {
+	"name": "The Woodland Valley",
+    "description": "The Woodland Valley is a forest of rich trees and blooming life. With all the trees, there was no light. Only little streams of life brushed through the leaves of the top.\n\nAfter the storm passed, suddenly the trees grew thinner and weaker. So weak that sometimes the slightest touch will knock them down. Many people who used to visit the forest have stopped going because of how dangerous it has become.\n\nTrees have also grown taller making them even more dangerous to explore. So tall that it's still blocked the sun to this day.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "oracle": {
+  	"name": "The Oracle Rivers",
+    "description": "The main strip of water connects to all of the areas of Coneyford. It is the junction that gives life to the forests of the woodlands and the beauty of the tropical gardens. The properties of the water were so clean that you could drink straight from the stream.\n\nHowever, the storm caused the water to change direction and the streams became thinner. There were no more lakes and no more ponds.. just rivers that are so thin, you can step over them.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "ethereal": {
+  	"name": "The Ethereal Gardens",
+    "description": "A mysterious jungle throbbing with life with a glowing sky and sparkling water. In the distance from wherever you send, you will see multiple waterfalls, thriving wildlife, bright wisps and fairies and interesting beings. Some of the locals of Coneyford actually live in this part of the continent, who prefer to be one with nature and away from society.\n\nDespite the storm's appearance nothing has changed. However, those who explored the area have become bound to the land never allowed to go back home. Forever trapped, the visitors have grown accustomed to the beautiful scenery and the wilderness of the creatures within.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "crimson": {
+	"name": "The Crimson Grove",
+    "description": "An enchanted land surrounded by arcane energy. A place deserted after being corrupted by the Crimson Wizard. It is full of abandoned structures, magical forests, and unusual creatures.\n\nMost of the people who are held captive were experimented on with arcane powers and are very dangerous. So dangerous that upon returning to the capital were immediately banished for the corruption that sunk in their body.\n\nWhen the crimson wizard is not in the realm he resides in, this is where he usually is. This is the most dangerous area to explore but it also holds the rarest of eggs.",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  },
+  "void": {
+	"name": "The Arcane Void",
+    "description": "The Arcane Void is a endless space of time and corrupted power. Mere mortals who enter this place often become corrupted by the destructive power. Those who last long enough suffer from madness because of the aura of arcane magic and strange sounds that occur from them.\n\nThere is a rumor that a being powerful enough was able to tempor with void in order to create The Crimson Wizard. No one knows exactly who it was and why they did it. The Crimsonologists of Coneyford have extracted the power from this void very recently and began studying it's raw chaotic nature.\n\nLuckily our heroes have baskets powerful enough for them to embark and find unseen eggs for the Conoras to study. We may need the power from them soon..",
+    "map": "Placeholder",
+    "icon": "Placeholder"
+  }
+}

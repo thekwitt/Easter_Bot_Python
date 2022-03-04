@@ -1,0 +1,1571 @@
+﻿2021-11-25 16:49:35 | .-----------------------------------.
+|          Commands Loaded          |
+|-----------------------------------|
+| setchannel        | 🔹 SUCCESSFUL |
+| settings          | 🔹 SUCCESSFUL |
+| chuck             | 🔹 SUCCESSFUL |
+| collectcoal       | 🔹 SUCCESSFUL |
+| collectpresent    | 🔹 SUCCESSFUL |
+| give              | 🔹 SUCCESSFUL |
+| unwrap            | 🔹 SUCCESSFUL |
+| recycle           | 🔹 SUCCESSFUL |
+| about             | 🔹 SUCCESSFUL |
+| donate            | 🔹 SUCCESSFUL |
+| help              | 🔹 SUCCESSFUL |
+| invite            | 🔹 SUCCESSFUL |
+| privacy_policy    | 🔹 SUCCESSFUL |
+| server_stats      | 🔹 SUCCESSFUL |
+| support           | 🔹 SUCCESSFUL |
+| vote              | 🔹 SUCCESSFUL |
+| wheniscelebration | 🔹 SUCCESSFUL |
+| card              | 🔹 SUCCESSFUL |
+| leaderboard       | 🔹 SUCCESSFUL |
+| sack              | 🔹 SUCCESSFUL |
+| toybox            | 🔹 SUCCESSFUL |
+'-----------------------------------'
+﻿2021-11-25 16:49:35 | Started refreshing application (/) commands.
+﻿2021-11-25 16:49:35 | Successfully reloaded application (/) commands.
+﻿2021-11-25 16:49:37 | undefined [undefined] (674628734430478357)  -  Left the Database!
+﻿2021-11-25 16:49:53 | Comunidad Gamer [137] (419824756292845583)  - Restarting Reply: Interaction Create Event
+﻿2021-11-25 16:49:53 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Restarting Reply: Interaction Create Event
+﻿2021-11-25 16:49:53 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Restarting Reply: Interaction Create Event
+﻿2021-11-25 16:49:53 | 🔸 ERROR Comunidad Gamer [137] (419824756292845583)  - Reply Denied: Interaction Create Event
+﻿2021-11-25 16:49:53 | 🔸 ERROR ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Reply Denied: Interaction Create Event
+﻿2021-11-25 16:49:53 | 🔸 ERROR ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Reply Denied: Interaction Create Event
+﻿2021-11-25 16:49:54 | Bot is ready
+﻿2021-11-25 16:49:54 | Cipher Shadows (Zook) [undefined] (237017965147455488)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | nourish. [undefined] (274797033628499968)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Baby Yoda [undefined] (677324627445415947)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | SHRIMP GAMING [undefined] (691785855815254095)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Comunidad Navideña NGS 🎄🎅 [undefined] (693897990393298975)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Poderosos Club [undefined] (694994318468841542)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Assvengers [undefined] (696150187642454107)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [undefined] (699929960483258368)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | MNZ [undefined] (703056184038653985)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | si quiteas sos gay [undefined] (716475869614571541)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Bot Hub [undefined] (716920162518958111)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Spieletrend Test [undefined] (717475267949494382)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | PlayGame [undefined] (329232994185510922)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | •SOÑANDO CON LUCAS• [undefined] (717819299292774430)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Lotus64 [undefined] (718574633002991636)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Flat Mountains [undefined] (718930840519835721)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Candy Corn [undefined] (638223752999731221)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Gaming Channle [undefined] (658696248567660545)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Blyat Family [undefined] (305753222184828928)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | DESTROYED SERVER BY MD [undefined] (510967836278259713)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Robertoxds [undefined] (411342610985385984)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | The Church of El Risitas [undefined] (511367372817301506)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ʚᘏᗢ﹕𝚔𝚒𝚝𝚝𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 [undefined] (581356438384017408)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ✴𝕯𝖎𝖆𝖒𝖆𝖓𝖙𝖊𝖘✴ [undefined] (574514084985438218)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝗥𝗢𝗚 🎅 [undefined] (575291250643697684)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | PoDvRstE [undefined] (523523141906071555)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Yrachy Army [undefined] (555194035573227521)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Art with Tea [undefined] (475142588907782146)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | test server [undefined] (720151157841985617)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 17427f55-4c6b-4a5e-8b55-0f1d1cb75f3f [undefined] (721288064198246511)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Rather's server [undefined] (725832047045902408)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | pepega clap [undefined] (726238427233779793)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | MShadow's server [undefined] (727523773842063440)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ♡ĐɆ₳Đ_ŠĘŔVĒŔ♡ [undefined] (727562537347973130)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Labour Party - Respublica [undefined] (729112311138353235)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Bruh [undefined] (729981342724390932)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Daily Tea [undefined] (719262288464314498)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Comunidad Gamer [undefined] (419824756292845583)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Lunar Landing🌙 [undefined] (331353174516695044)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Test [undefined] (731222227294486549)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Hi [undefined] (732141398819733584)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Sociedad Emulapobre [undefined] (732441604723441715)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 楽しい一日/𝙱𝚑𝚊 𝚛𝚎𝚜𝚝𝚊𝚞𝚛𝚊𝚗𝚝 🍙🍱 [undefined] (733394674475073607)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🤙🏽grupa Denixa 🤙🏽 [undefined] (733717889634271332)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝗜𝗿𝗶’𝘀 𝗖𝗹𝘂𝗯 [undefined] (737569246984536116)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ✧꒰┆La Compadrita🎅🏻🎄 [undefined] (741433656110874665)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Pixellzz offical discord :D [undefined] (743250028491047033)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Ur [undefined] (743904590738751510)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Jen’s Bean Club [undefined] (744620506094895154)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | KWitt's Vapordice [undefined] (746399419460616193)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Crewmates PH [undefined] (746658616307744829)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Retr0Turtle [undefined] (753827431772586094)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Pruebas [undefined] (755511248489021470)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | FamilyCorrea [undefined] (755632593155653702)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | A Discord Server [undefined] (756129162296819833)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | JUEGUITOS EKISDE [undefined] (756709671724646421)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | alt accs [undefined] (757107912085602335)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Maikel Comunidad [undefined] (757652142986363034)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Secret Lewd Society [undefined] (757747950356004874)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | PMCO E-SPORT [undefined] (758377739265900554)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🌸OTAKUTAGE🌸 [undefined] (758383867916320780)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | The Cafe [undefined] (601582309598035968)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | KMCODES/NAAR CODES [undefined] (601079955564265472)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Star Stable Bakery ˚୨୧⋆｡ [undefined] (607248887924785192)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Bot Tester [undefined] (622069686548561931)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Real's Crew! [undefined] (762769342999298059)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Virgin American Airline [undefined] (764861353550282782)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Balkan Selevac [undefined] (765306524783476738)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Cyko Ball [undefined] (767147679113150494)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ➫sᴇñorᵍᵃʸ❀✿⌫'s server [undefined] (767241276218671115)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Hayden Co Christmas [undefined] (768083150151614475)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | SLURP ARMY [undefined] (772373174095708181)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Waffles Server [undefined] (772983913248849920)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Test Server 1 [undefined] (773669939718258720)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Test Server 2 [undefined] (773670006331277344)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Test Server 3 [undefined] (773670054595657748)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Emote Land Test [undefined] (774568415599656970)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Test Sever [undefined] (775211322878459914)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | IsabellaLemonade's server [undefined] (775377239339433995)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🌨 𝒩𝑜𝓇𝓉𝒽 𝒫𝑜𝓁𝑒 𝒜𝓁𝒾𝒶𝓈 ❄ [undefined] (775504863843975198)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Clever's Hosted Games [undefined] (777733144072683522)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | holly's test server [undefined] (777961161592406058)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | SUS ASS MFS FRIEND GROUP [undefined] (779183243940593694)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🍓-𝙎𝙩𝙧𝙖𝙬𝙗𝙚𝙧𝙧𝙮 𝙖𝙣𝙙 𝙈𝙞𝙡𝙠'𝙨 𝘾𝙖𝙣𝙙𝙮 𝙎𝙝𝙤𝙥-🥛 [undefined] (782356517961072690)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | TeamCamero [undefined] (616641495105142784)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ( ͡▀̿ ̿͜ʖ ͡▀̿ ̿ )PIBESxStarCrah [undefined] (783112198427902004)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Christmas [undefined] (783486351785328671)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Elfs on the shelf [undefined] (784064480345587773)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Joesmart3467-ROBLOX [undefined] (784866512837541921)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Gamer homies🎮 [undefined] (785200162590556200)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ░XDXDXDXDXD [undefined] (785680695774674944)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | TEAM OP!!!!! [undefined] (786082854466486292)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Holidays🎅 [undefined] (786206712138170368)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Bootiful [undefined] (786255469794557973)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Boxen Town [undefined] (786331177590063124)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Bots #2 [undefined] (786680540782526464)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | JusJoliee's server [undefined] (786746739805519912)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | tiktok zqrxz's server [undefined] (786974572943114250)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Kayla's Whaaa- Server👻🤡 [undefined] (787015336821391450)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Natsulandia💅🐧💉 [undefined] (787051226025164861)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Fun server [undefined] (787264059925331978)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | navidad en proceso [undefined] (787340806401818674)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝓐𝓭𝓿𝓮𝓷𝓽𝓾𝓻𝓮 𝓣𝓲𝓶𝓮 [undefined] (787399854354989066)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Grupa Quizowiczów [undefined] (787754452739293217)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | i made this so we can use the marriage bot [undefined] (787926475047174184)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | |_.-*-.ђ๏ɭเ๔คץร.-*-._| [undefined] (788043559676018688)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | The North Pole [undefined] (788107981723009055)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | GAMERS DE MOVIL [undefined] (788206289964498965)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | GO TEAM HEYOOOOOOOO OP!!!!!! :D [undefined] (788487382273753118)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Servidor de Bob Esponja [undefined] (789268498396217356)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Bot land [undefined] (789297977629212682)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Christmas Wish [undefined] (789485485247692801)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | No Limit [undefined] (789534405886607411)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Botsssssssssss [undefined] (789994009040388097)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Christmas time [undefined] (790921630851137536)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🎄.Present Servidor.🎄 [undefined] (793383602585993237)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Juegos Juegos [undefined] (799761924094165043)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | bo t [undefined] (786992359266451457)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Genshin Outlanders [undefined] (800768032669564976)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | NecrocrossSG1's server [undefined] (805870027819057233)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | prueba [undefined] (806042046590615563)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Fortnite 2 the remix [undefined] (811294919804977203)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🌘~Lumina~🌒 [undefined] (811790752392282162)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | christmas ; joy to the world [undefined] (787743361859190804)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🎄🎁Basement🎁🎄 [undefined] (814393038855340062)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Strefa Gier [undefined] (814761087354273833)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Bathhouse Café [undefined] (815055837181378560)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | State 678 Discord [undefined] (821981921898790932)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | geri I priqteli [undefined] (826882461048373248)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🎮HAMAƁƐAƊ_XƐƑU🎮 [undefined] (827244998238928986)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Prosy Maxiqa [undefined] (829269130958995466)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Star Stable Garden [undefined] (834431300562976799)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | test [undefined] (843990985512189994)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | lol [undefined] (844213574900908042)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Pruevas bot [undefined] (845988163289350154)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | MK_Ultraz Axie Empire [undefined] (847891280695918642)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ~⚡𝕔𝕙𝕚𝕝𝕝 𝕫𝕠𝕟𝕖⚡~ [undefined] (850416478971887637)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | The Gang [undefined] (850917746157944852)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Ârea Development [undefined] (852162468947820574)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | genshin ! :D [undefined] (855190176141934593)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | abby christmas nem [undefined] (856260682008756254)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝐬𝐰𝐞𝐞𝐭 𝐟𝐨𝐫𝐞𝐬𝐭 𝐮𝐧𝐢𝐭𝐞𝐝 [undefined] (857226661157273610)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | glacieredauto's server [undefined] (859883951263055902)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | lol [undefined] (860546627236265984)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [undefined] (862786915769647145)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | dépotoir [undefined] (865536206808416256)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Twitch follows [undefined] (866081540677435422)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝐑𝐨𝐲𝐚𝐥 𝐄𝐥𝐯𝐞𝐬 🎄 [undefined] (866135746620424233)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 🍄° 𐐪CreamPuffs𐐪°🍄° [undefined] (867466871896014858)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Dank Kuties [undefined] (869757095233323098)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ZeroSpice [undefined] (869939833072648233)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | SERIES 13TH [undefined] (870812060005564476)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Appachan’s Malika [undefined] (872924388662575154)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | -ɪʟʟᴜᴍɪɴᴀᴛᴇ⍫ [undefined] (876835960309047326)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Test [undefined] (877516572476989471)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | me and only me [undefined] (877650828876447744)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | [Desire] Community/Trading [undefined] (880822868907282482)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | The Silver paw group [undefined] (883402643291123762)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [undefined] (885378649610653727)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | gæ ppl only 🥰🤞owo [undefined] (886648291922690099)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | 𝐖𝐚𝐰𝐢𝐋𝐚𝐧𝐝~𝑪𝒐𝒎𝒊𝒏𝒈 𝑺𝒐𝒐𝒏ღ [undefined] (889543254415142992)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | The Literature Club [undefined] (890718560098336779)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | ☕🥐 . ⇢ ˗ˏˋ 𝘆𝘂𝗺𝗮 𝗰𝗮𝗳𝗲 ˎˊ [undefined] (859940567688937472)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | omegas [undefined] (894210401208782849)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | Clothing Designs [undefined] (895469159201275966)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:54 | HabboSwat - Events Unit [undefined] (896967095072460870)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Test [undefined] (897042707690704927)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | ComfyBlub [undefined] (899124572874477589)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | El servidor de s3b4s44 [undefined] (899832253750857768)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | TEAM RCC [undefined] (899913944800579604)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [undefined] (900357493337768026)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | The Chill 2.0 [undefined] (901127408164413460)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | glacieredauto's server [undefined] (902052646440022077)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Yuuki edits community server [undefined] (903357360016334848)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | \\ [undefined] (903917888572882954)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Lusty Boys (18+) [undefined] (904594112857145416)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Genshin Impact: Another Life With You [undefined] (904925498470174760)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Presents [undefined] (905253218383179807)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Private server [undefined] (905366189688102942)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Trenend.eu [undefined] (906597002366840893)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | BOTS HAVE TAKEN OVER [undefined] (906707105174663178)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | ﹢l🧁│Celestrial [undefined] (906938940618051655)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Emmas Castle [undefined] (906967077783498752)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | RedKnight RP [undefined] (907031833508741180)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | DOJO [undefined] (907130755237412904)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Minerblock server [undefined] (907252105541206017)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Tương lai [undefined] (907527155200700417)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | desktopOS Community [undefined] (907543065508597800)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Extra Bots [undefined] (908236115725664286)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | ✨UwU FanClub✨ [undefined] (908676105865682954)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Reema’s Rad Club [undefined] (908937559768449045)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | HELMINE.CZ [undefined] (904093801516245074)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Ori's Universe [undefined] (904316925365063770)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Death note 𓆩 ♱ 𓆪 [undefined] (900725626170900502)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | 𝙯𝙤𝙤 𝙤𝙛 𝙥𝙚𝙤𝙥𝙡𝙚 [undefined] (909062707938992168)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Thicc Bitches Inc. [undefined] (909138191439769641)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | Swaggo Soph's Hang out [undefined] (909176187044126721)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | 🎄La cuccia dei Gatti🎄 [undefined] (909492652859326536)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:55 | NSFW CENTRAL [undefined] (909059046257098772)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:57 | Comunidad Gamer [137] (419824756292845583)  - Member Fetch: Role Swap
+﻿2021-11-25 16:49:57 | Comunidad Gamer [137] (419824756292845583)  - help - Execution: Interaction Create Event
+﻿2021-11-25 16:49:57 | Comunidad Gamer [137] (419824756292845583)  - setting: Help Command
+﻿2021-11-25 16:49:57 | PUPIK [21] (910922830097555526)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:49:59 | Top.gg stats posted!
+﻿2021-11-25 16:50:37 | Comunidad Gamer [137] (419824756292845583)  - settings - Execution: Interaction Create Event
+﻿2021-11-25 16:50:37 | Comunidad Gamer [137] (419824756292845583)  - Confirm Reply: Settings 2 Command
+﻿2021-11-25 16:51:16 | Bathhouse Café [80] (815055837181378560)  - Member Fetch: Role Swap
+﻿2021-11-25 16:51:16 | Bathhouse Café [80] (815055837181378560)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 16:51:16 | Bathhouse Café [80] (815055837181378560)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 16:51:22 | Bathhouse Café [80] (815055837181378560)  - toybox - Execution: Interaction Create Event
+﻿2021-11-25 16:51:22 | Bathhouse Café [80] (815055837181378560)  - Duplicate Reply: Toybox Command
+﻿2021-11-25 16:51:22 | Bathhouse Café [80] (815055837181378560)  - Fetch Reply: Toybox Command
+﻿2021-11-25 16:51:22 | 🔸 ERROR Bathhouse Café [80] (815055837181378560)  - Fetch Reply Denied: Toybox Command
+﻿2021-11-25 16:51:28 | Bathhouse Café [80] (815055837181378560)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-25 16:51:40 | Bathhouse Café [80] (815055837181378560)  - toybox - Execution: Interaction Create Event
+﻿2021-11-25 16:51:40 | Bathhouse Café [80] (815055837181378560)  - Duplicate Reply: Toybox Command
+﻿2021-11-25 16:51:40 | Bathhouse Café [80] (815055837181378560)  - Fetch Reply: Toybox Command
+﻿2021-11-25 16:51:40 | 🔸 ERROR Bathhouse Café [80] (815055837181378560)  - Fetch Reply Denied: Toybox Command
+﻿2021-11-25 16:51:48 | Bathhouse Café [80] (815055837181378560)  - Last Page Bag Reply: Toybox Command
+﻿2021-11-25 16:52:50 | 乂ѕαиκυ乂 [57] (912899603135856671)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:53:03 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 16:53:22 | Bathhouse Café [80] (815055837181378560)  - End Bag Reply: Toybox Command
+﻿2021-11-25 16:53:26 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 16:53:32 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 16:53:34 | [Desire] Community/Trading [109] (880822868907282482)  - Willstar211 - Present Reply: Message Create Event
+﻿2021-11-25 16:53:40 | Bathhouse Café [80] (815055837181378560)  - End Bag Reply: Toybox Command
+﻿2021-11-25 16:54:03 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 16:54:06 | [Desire] Community/Trading [109] (880822868907282482)  - Empty Edit: Message Create Event
+﻿2021-11-25 16:54:06 | [Desire] Community/Trading [109] (880822868907282482)  - feni - Present Reply: Message Create Event
+﻿2021-11-25 16:55:24 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 16:55:38 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 16:56:06 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  -  has joined us! Configuring database now!
+﻿2021-11-25 16:56:06 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - Guild was successfully configured and added to database!
+﻿2021-11-25 16:56:10 | Genshin Impact: Another Life With You [55] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 16:56:19 | Genshin Impact: Another Life With You [55] (904925498470174760)  - Thoma <3 - Present Reply: Message Create Event
+﻿2021-11-25 16:56:24 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 16:56:33 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 16:56:38 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 16:56:50 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - Member Fetch: Role Swap
+﻿2021-11-25 16:56:50 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - No Channel Reply: Interaction Create Event
+﻿2021-11-25 16:57:06 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-25 16:57:06 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - Role Created.: Set Channel Command
+﻿2021-11-25 16:57:06 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - Confirm Reply: Set Channel Command
+﻿2021-11-25 16:57:10 | Genshin Impact: Another Life With You [55] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 16:57:15 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 16:57:15 | ⚜The  Fab 5⃣⚜ [29] (819878392965890068)  - Bot Reply: Invite Command
+﻿2021-11-25 16:57:40 | Comunidad Gamer [137] (419824756292845583)  - help - Execution: Interaction Create Event
+﻿2021-11-25 16:57:40 | Comunidad Gamer [137] (419824756292845583)  - presents: Help Command
+﻿2021-11-25 16:57:57 | Comunidad Gamer [137] (419824756292845583)  -  Left the Database!
+﻿2021-11-25 16:59:22 | PESOS AND BOBOS [24] (812450588108259400)  -  has joined us! Configuring database now!
+﻿2021-11-25 16:59:22 | PESOS AND BOBOS [24] (812450588108259400)  - Guild was successfully configured and added to database!
+﻿2021-11-25 17:00:10 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:00:20 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:00:31 | PESOS AND BOBOS [24] (812450588108259400)  - Member Fetch: Role Swap
+﻿2021-11-25 17:00:31 | PESOS AND BOBOS [24] (812450588108259400)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-25 17:00:31 | PESOS AND BOBOS [24] (812450588108259400)  - Role Created.: Set Channel Command
+﻿2021-11-25 17:00:31 | PESOS AND BOBOS [24] (812450588108259400)  - Confirm Reply: Set Channel Command
+﻿2021-11-25 17:01:10 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:01:16 | Genshin Outlanders [181] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 17:01:27 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 17:01:34 | PESOS AND BOBOS [24] (812450588108259400)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 17:01:34 | PESOS AND BOBOS [24] (812450588108259400)  - Wrong present ID Warning Reply: Chuck Command
+﻿2021-11-25 17:01:49 | PESOS AND BOBOS [24] (812450588108259400)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 17:01:49 | PESOS AND BOBOS [24] (812450588108259400)  - Bot Reply: Collect Present Command
+﻿2021-11-25 17:02:05 | Genshin Outlanders [181] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 17:02:17 | Genshin Outlanders [181] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:02:27 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:02:36 | PESOS AND BOBOS [24] (812450588108259400)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 17:02:36 | PESOS AND BOBOS [24] (812450588108259400)  - Bot Reply: Collect Present Command
+﻿2021-11-25 17:02:54 | PESOS AND BOBOS [24] (812450588108259400)  - card - Execution: Interaction Create Event
+﻿2021-11-25 17:02:54 | PESOS AND BOBOS [24] (812450588108259400)  - Bot Reply: Card Command
+﻿2021-11-25 17:03:50 | PESOS AND BOBOS [24] (812450588108259400)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 17:03:50 | PESOS AND BOBOS [24] (812450588108259400)  - Chuck Reply: Collect Command
+﻿2021-11-25 17:04:06 | PESOS AND BOBOS [24] (812450588108259400)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 17:04:06 | PESOS AND BOBOS [24] (812450588108259400)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 17:04:42 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:04:48 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:05:09 | PESOS AND BOBOS [24] (812450588108259400)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-25 17:05:23 | [Desire] Community/Trading [109] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:05:43 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:07:29 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 17:08:29 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:09:04 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:09:07 | [Desire] Community/Trading [109] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:09:13 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:09:38 | [Desire] Community/Trading [109] (880822868907282482)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:09:38 | [Desire] Community/Trading [109] (880822868907282482)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:09:45 | Genshin Impact: Another Life With You [55] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 17:09:49 | Genshin Impact: Another Life With You [55] (904925498470174760)  - Kazu-Chan - Present Reply: Message Create Event
+﻿2021-11-25 17:10:46 | Genshin Impact: Another Life With You [55] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:10:52 | Sageleafs [33] (910188016121835600)  - Guild was successfully configured and added to database!
+﻿2021-11-25 17:12:28 | ✨UwU FanClub✨ [28] (908676105865682954)  - First Send: Message Create Event
+﻿2021-11-25 17:12:28 | 🔸 ERROR ✨UwU FanClub✨ [28] (908676105865682954)  - Send Denied: Message Create Event
+﻿2021-11-25 17:12:59 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:13:02 | [Desire] Community/Trading [109] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:13:04 | [Desire] Community/Trading [109] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 17:13:28 | 🔸 ERROR ✨UwU FanClub✨ [28] (908676105865682954)  - Edit Denied: Message Create Event
+﻿2021-11-25 17:13:59 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:14:31 | The Gang [26] (850917746157944852)  - First Send: Message Create Event
+﻿2021-11-25 17:14:35 | The Gang [26] (850917746157944852)  - Sakoiya - Present Reply: Message Create Event
+﻿2021-11-25 17:14:38 | The Gang [26] (850917746157944852)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:14:41 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Guild was successfully configured and added to database!
+﻿2021-11-25 17:14:43 | The Gang [26] (850917746157944852)  - Member Fetch: Role Swap
+﻿2021-11-25 17:14:43 | The Gang [26] (850917746157944852)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 17:14:43 | The Gang [26] (850917746157944852)  - Duplicate Reply: Sack Command
+﻿2021-11-25 17:14:43 | The Gang [26] (850917746157944852)  - Fetch Reply: Sack Command
+﻿2021-11-25 17:14:43 | 🔸 ERROR The Gang [26] (850917746157944852)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 17:15:30 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 17:15:31 | The Gang [26] (850917746157944852)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:15:44 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 17:15:47 | Labour Party - Respublica [202] (729112311138353235)  - Connor004 - Present Reply: Message Create Event
+﻿2021-11-25 17:15:48 | Labour Party - Respublica [202] (729112311138353235)  - T-Nats - Present Reply: Message Create Event
+﻿2021-11-25 17:16:30 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:16:43 | The Gang [26] (850917746157944852)  - End Bag Reply: Sack Command
+﻿2021-11-25 17:16:44 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:17:23 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - First Send: Message Create Event
+﻿2021-11-25 17:17:27 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Vilky Vodka - Present Reply: Message Create Event
+﻿2021-11-25 17:17:29 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - arson - Present Reply: Message Create Event
+﻿2021-11-25 17:18:23 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:19:53 | Top.gg stats posted!
+﻿2021-11-25 17:20:48 | [Desire] Community/Trading [109] (880822868907282482)  - Member Fetch: Role Swap
+﻿2021-11-25 17:20:49 | [Desire] Community/Trading [109] (880822868907282482)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 17:20:49 | [Desire] Community/Trading [109] (880822868907282482)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 17:21:33 | [Desire] Community/Trading [109] (880822868907282482)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 17:21:33 | [Desire] Community/Trading [109] (880822868907282482)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 17:22:15 | Genshin Outlanders [181] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 17:23:15 | Genshin Outlanders [181] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:24:00 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:24:04 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:24:05 | [Desire] Community/Trading [109] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:24:28 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 17:25:00 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:25:04 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 17:25:28 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:25:55 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 17:26:04 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:26:50 | Hazel's Christmas house [30] (910139907543015435)  - Guild was successfully configured and added to database!
+﻿2021-11-25 17:29:38 | PESOS AND BOBOS [24] (812450588108259400)  - First Send: Message Create Event
+﻿2021-11-25 17:29:53 | PESOS AND BOBOS [24] (812450588108259400)  - Noe - Present Reply: Message Create Event
+﻿2021-11-25 17:30:27 | Genshin Impact: Another Life With You [55] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 17:30:39 | PESOS AND BOBOS [24] (812450588108259400)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:30:56 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:30:58 | [Desire] Community/Trading [109] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:31:12 | Genshin Impact: Another Life With You [55] (904925498470174760)  - Thoma <3 - Present Reply: Message Create Event
+﻿2021-11-25 17:31:18 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:31:20 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 17:31:27 | Genshin Impact: Another Life With You [55] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:31:34 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 17:31:38 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - ❦Deαr Evαn❞ - Present Reply: Message Create Event
+﻿2021-11-25 17:31:38 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - ♡𝐙𝐚𝐜𝐤𝟑𝟕♡ - Present Reply: Message Create Event
+﻿2021-11-25 17:31:40 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:31:40 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [34] (900357493337768026)  - Kasi - Present Reply: Message Create Event
+﻿2021-11-25 17:31:56 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:31:57 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 17:31:59 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 17:32:20 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:32:59 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:36:11 | Christmas Town [16] (910216849935974481)  - Guild was successfully configured and added to database!
+﻿2021-11-25 17:36:16 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 17:36:22 | Labour Party - Respublica [202] (729112311138353235)  - h. - Present Reply: Message Create Event
+﻿2021-11-25 17:36:24 | Labour Party - Respublica [202] (729112311138353235)  - coolking295 - Present Reply: Message Create Event
+﻿2021-11-25 17:36:27 | Labour Party - Respublica [202] (729112311138353235)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:36:27 | Labour Party - Respublica [202] (729112311138353235)  - logie - Present Reply: Message Create Event
+﻿2021-11-25 17:36:29 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 17:36:42 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 17:36:52 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:36:55 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:37:05 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 17:37:08 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:37:08 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:37:29 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:37:38 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❦Deαr Evαn❞ - Present Reply: Message Create Event
+﻿2021-11-25 17:37:42 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:38:00 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 17:38:14 | Genshin Impact: Another Life With You [54] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 17:38:17 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:38:21 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:38:22 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:38:22 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 17:38:23 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:38:23 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:38:26 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:38:27 | abby christmas nem [33] (856260682008756254)  - em' - Present Reply: Message Create Event
+﻿2021-11-25 17:38:29 | [Desire] Community/Trading [109] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 17:38:31 | [Desire] Community/Trading [109] (880822868907282482)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:38:31 | [Desire] Community/Trading [109] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:38:31 | Genshin Impact: Another Life With You [54] (904925498470174760)  - Kazu-Chan - Present Reply: Message Create Event
+﻿2021-11-25 17:38:41 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 17:38:48 | PESOS AND BOBOS [24] (812450588108259400)  - First Send: Message Create Event
+﻿2021-11-25 17:38:52 | PESOS AND BOBOS [24] (812450588108259400)  - Noe - Present Reply: Message Create Event
+﻿2021-11-25 17:38:56 | Genshin Impact: Another Life With You [54] (904925498470174760)  - Thoma <3 - Present Reply: Message Create Event
+﻿2021-11-25 17:39:00 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:39:14 | Genshin Impact: Another Life With You [54] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:39:19 | PESOS AND BOBOS [24] (812450588108259400)  - Emily L - Present Reply: Message Create Event
+﻿2021-11-25 17:39:35 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:39:39 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:39:41 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:39:42 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:39:48 | PESOS AND BOBOS [24] (812450588108259400)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:39:49 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Member Fetch: Role Swap
+﻿2021-11-25 17:39:49 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 17:39:49 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Duplicate Reply: Sack Command
+﻿2021-11-25 17:39:49 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Fetch Reply: Sack Command
+﻿2021-11-25 17:39:49 | 🔸 ERROR Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 17:40:00 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Update Reply: Sack Command
+﻿2021-11-25 17:40:03 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Update Reply: Sack Command
+﻿2021-11-25 17:40:06 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Update Reply: Sack Command
+﻿2021-11-25 17:40:07 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Update Reply: Sack Command
+﻿2021-11-25 17:40:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 17:40:27 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - cam <3 - Present Reply: Message Create Event
+﻿2021-11-25 17:40:35 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:41:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:41:25 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 17:41:32 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 17:41:34 | Labour Party - Respublica [202] (729112311138353235)  - h. - Present Reply: Message Create Event
+﻿2021-11-25 17:41:37 | Labour Party - Respublica [202] (729112311138353235)  - logie - Present Reply: Message Create Event
+﻿2021-11-25 17:41:41 | Labour Party - Respublica [202] (729112311138353235)  - Member Fetch: Role Swap
+﻿2021-11-25 17:41:41 | Labour Party - Respublica [202] (729112311138353235)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 17:41:41 | Labour Party - Respublica [202] (729112311138353235)  - Duplicate Reply: Sack Command
+﻿2021-11-25 17:41:41 | Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply: Sack Command
+﻿2021-11-25 17:41:41 | 🔸 ERROR Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 17:41:41 | Labour Party - Respublica [202] (729112311138353235)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 17:41:41 | Labour Party - Respublica [202] (729112311138353235)  - Duplicate Reply: Sack Command
+﻿2021-11-25 17:41:41 | Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply: Sack Command
+﻿2021-11-25 17:41:41 | 🔸 ERROR Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 17:41:49 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - End Bag Reply: Sack Command
+﻿2021-11-25 17:41:56 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:42:02 | [Desire] Community/Trading [109] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:42:32 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:42:34 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 17:42:44 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 17:42:51 | [Desire] Community/Trading [109] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 17:42:52 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 17:42:55 | Dank Kuties [216] (869757095233323098)  - 𝓱𝓸𝓵𝓶𝓮𝓼 ♕ - Present Reply: Message Create Event
+﻿2021-11-25 17:42:55 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❦Deαr Evαn❞ - Present Reply: Message Create Event
+﻿2021-11-25 17:42:56 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:43:34 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:43:41 | Labour Party - Respublica [202] (729112311138353235)  - End Bag Reply: Sack Command
+﻿2021-11-25 17:43:41 | Labour Party - Respublica [202] (729112311138353235)  - End Bag Reply: Sack Command
+﻿2021-11-25 17:43:44 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:43:52 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:44:35 | Genshin Outlanders [181] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 17:44:43 | Genshin Outlanders [181] (800768032669564976)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:45:30 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:45:32 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:45:34 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:45:35 | Genshin Outlanders [181] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:45:43 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 17:46:30 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:46:38 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:46:41 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:46:44 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:46:46 | [Desire] Community/Trading [110] (880822868907282482)  - kingbla - Present Reply: Message Create Event
+﻿2021-11-25 17:46:46 | [Desire] Community/Trading [110] (880822868907282482)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:46:46 | [Desire] Community/Trading [110] (880822868907282482)  - ChrisyNoob - Present Reply: Message Create Event
+﻿2021-11-25 17:46:47 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 17:47:14 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 17:47:16 | Dank Kuties [216] (869757095233323098)  - 𝓱𝓸𝓵𝓶𝓮𝓼 ♕ - Present Reply: Message Create Event
+﻿2021-11-25 17:47:47 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:48:01 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:48:04 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:48:07 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 17:48:09 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:48:09 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:48:14 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:48:39 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 17:48:45 | PUPIK [21] (910922830097555526)  - emma - Present Reply: Message Create Event
+﻿2021-11-25 17:48:46 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 17:49:01 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 17:49:12 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❦Deαr Evαn❞ - Present Reply: Message Create Event
+﻿2021-11-25 17:49:12 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:49:15 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 17:49:16 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:49:22 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❁𝐀𝐝𝐫𝐢𝐚𝐧𝟎𝟎𝟏❁ - Present Reply: Message Create Event
+﻿2021-11-25 17:49:31 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:49:31 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:49:39 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:49:46 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:49:54 | Top.gg stats posted!
+﻿2021-11-25 17:50:01 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:50:32 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:50:37 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:50:39 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:50:40 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:50:42 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 17:50:45 | [Desire] Community/Trading [110] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 17:50:55 | Genshin Outlanders [181] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 17:50:55 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:50:55 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:50:55 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 17:50:59 | [Desire] Community/Trading [110] (880822868907282482)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-25 17:50:59 | [Desire] Community/Trading [110] (880822868907282482)  - 1st Reply: LB Command
+﻿2021-11-25 17:50:59 | Genshin Outlanders [181] (800768032669564976)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:50:59 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:50:59 | [Desire] Community/Trading [110] (880822868907282482)  - Fetch Reply: LB Command
+﻿2021-11-25 17:51:34 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 17:51:38 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:51:38 | Labour Party - Respublica [202] (729112311138353235)  - Connor004 - Present Reply: Message Create Event
+﻿2021-11-25 17:51:38 | Hazel's Christmas house [31] (910139907543015435)  - First Send: Message Create Event
+﻿2021-11-25 17:51:55 | Genshin Outlanders [181] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:51:55 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:51:55 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 17:51:58 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:52:03 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:52:10 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:52:15 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 17:52:18 | Dank Kuties [216] (869757095233323098)  - 𝓱𝓸𝓵𝓶𝓮𝓼 ♕ - Present Reply: Message Create Event
+﻿2021-11-25 17:52:23 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 17:52:23 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 17:52:34 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:52:34 | 🔸 ERROR Labour Party - Respublica [202] (729112311138353235)  - Edit Denied: Message Create Event
+﻿2021-11-25 17:52:38 | Hazel's Christmas house [31] (910139907543015435)  - $◄Dont touch my finger►$ - Present Reply: Message Create Event
+﻿2021-11-25 17:52:38 | Hazel's Christmas house [31] (910139907543015435)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:53:16 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:53:34 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:53:36 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:53:42 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:54:34 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:55:34 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 17:55:36 | Sociedad Emulapobre [221] (732441604723441715)  - First Send: Message Create Event
+﻿2021-11-25 17:55:37 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 17:55:40 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:55:42 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:55:46 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 17:56:02 | Genshin Impact: Another Life With You [54] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 17:56:26 | Dank Kuties [216] (869757095233323098)  - Member Fetch: Role Swap
+﻿2021-11-25 17:56:26 | Dank Kuties [216] (869757095233323098)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 17:56:26 | Dank Kuties [216] (869757095233323098)  - Bot Reply: Collect Present Command
+﻿2021-11-25 17:56:34 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:56:36 | Sociedad Emulapobre [221] (732441604723441715)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:56:37 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 17:56:40 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:56:40 | Dank Kuties [216] (869757095233323098)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:56:47 | Genshin Impact: Another Life With You [54] (904925498470174760)  - Kazu-Chan - Present Reply: Message Create Event
+﻿2021-11-25 17:56:48 | Dank Kuties [216] (869757095233323098)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:56:53 | Dank Kuties [216] (869757095233323098)  - Already Present Reply: Message Create Event
+﻿2021-11-25 17:56:57 | Dank Kuties [216] (869757095233323098)  - Already Present Reply: Message Create Event
+﻿2021-11-25 17:57:02 | Genshin Impact: Another Life With You [54] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:57:04 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 17:57:08 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 17:57:09 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 17:57:37 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:58:04 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:58:04 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 17:58:07 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 17:58:14 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 17:59:08 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Expired Edit: Message Create Event
+﻿2021-11-25 17:59:44 | Genshin Outlanders [181] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:00:44 | Genshin Outlanders [181] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:01:17 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 18:01:23 | Dank Kuties [216] (869757095233323098)  - 𝓱𝓸𝓵𝓶𝓮𝓼 ♕ - Present Reply: Message Create Event
+﻿2021-11-25 18:01:50 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 18:01:54 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 18:01:57 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 18:02:09 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 18:02:10 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 18:02:18 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:03:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:03:30 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - luhvvu - Present Reply: Message Create Event
+﻿2021-11-25 18:03:40 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 18:03:42 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - First Send: Message Create Event
+﻿2021-11-25 18:03:48 | Labour Party - Respublica [202] (729112311138353235)  - Connor004 - Present Reply: Message Create Event
+﻿2021-11-25 18:03:49 | Labour Party - Respublica [202] (729112311138353235)  - T-Nats - Present Reply: Message Create Event
+﻿2021-11-25 18:04:02 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 18:04:04 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 18:04:05 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 18:04:18 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - arson - Present Reply: Message Create Event
+﻿2021-11-25 18:04:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:04:40 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:04:40 | 🔸 ERROR Labour Party - Respublica [202] (729112311138353235)  - Edit Denied: Message Create Event
+﻿2021-11-25 18:04:42 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:05:02 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:08:34 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 18:08:35 | Genshin Outlanders [181] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:08:43 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❦Deαr Evαn❞ - Present Reply: Message Create Event
+﻿2021-11-25 18:09:07 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:09:34 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:09:35 | Genshin Outlanders [181] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:09:40 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 18:09:43 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ruby - Present Reply: Message Create Event
+﻿2021-11-25 18:09:45 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - whatsalesbian - Present Reply: Message Create Event
+﻿2021-11-25 18:09:47 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 18:09:47 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 18:09:47 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:09:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - LLL - Present Reply: Message Create Event
+﻿2021-11-25 18:09:51 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:10:07 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:10:40 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 18:10:47 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:10:47 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 18:11:32 | Dank Kuties [216] (869757095233323098)  - Fearless - Present Reply: Message Create Event
+﻿2021-11-25 18:11:41 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:12:29 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 18:12:41 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 18:12:44 | Labour Party - Respublica [202] (729112311138353235)  - Connor004 - Present Reply: Message Create Event
+﻿2021-11-25 18:12:50 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Kazu-Chan - Present Reply: Message Create Event
+﻿2021-11-25 18:13:29 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:13:41 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:15:20 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:16:03 | Genshin Outlanders [181] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:16:10 | Genshin Outlanders [181] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 18:16:15 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:16:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:16:20 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:16:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Member Fetch: Role Swap
+﻿2021-11-25 18:16:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 18:16:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 18:17:03 | Genshin Outlanders [181] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:17:15 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:17:15 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 18:17:24 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 18:17:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 18:17:43 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 18:18:02 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❦Deαr Evαn❞ - Present Reply: Message Create Event
+﻿2021-11-25 18:18:44 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:18:58 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 18:18:58 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 18:19:01 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 18:19:06 | Labour Party - Respublica [202] (729112311138353235)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 18:19:09 | [Desire] Community/Trading [110] (880822868907282482)  - Lava_Spirit - Present Reply: Message Create Event
+﻿2021-11-25 18:19:36 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - First Send: Message Create Event
+﻿2021-11-25 18:19:39 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - chaotic_stupid - Present Reply: Message Create Event
+﻿2021-11-25 18:19:40 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - PaulinaM - Present Reply: Message Create Event
+﻿2021-11-25 18:19:45 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Empty Edit: Message Create Event
+﻿2021-11-25 18:19:45 | Star Stable Bakery ˚୨୧⋆｡ [737] (607248887924785192)  - Ashes&Shadows - Present Reply: Message Create Event
+﻿2021-11-25 18:19:46 | Labour Party - Respublica [202] (729112311138353235)  - T-Nats - Present Reply: Message Create Event
+﻿2021-11-25 18:19:54 | Top.gg stats posted!
+﻿2021-11-25 18:19:58 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:19:58 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:21:00 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 18:21:28 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:21:48 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 18:22:00 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:22:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:22:24 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - ! adrianaa - Present Reply: Message Create Event
+﻿2021-11-25 18:22:28 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:22:55 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:23:10 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - First Send: Message Create Event
+﻿2021-11-25 18:23:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:24:11 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:24:33 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - First Send: Message Create Event
+﻿2021-11-25 18:24:57 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 18:25:00 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 18:25:07 | HabboSwat - Events Unit [52] (896967095072460870)  - Member Fetch: Role Swap
+﻿2021-11-25 18:25:07 | HabboSwat - Events Unit [52] (896967095072460870)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 18:25:07 | HabboSwat - Events Unit [52] (896967095072460870)  - Bot Reply: Invite Command
+﻿2021-11-25 18:25:11 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:25:33 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:25:38 | HabboSwat - Events Unit [52] (896967095072460870)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 18:25:38 | HabboSwat - Events Unit [52] (896967095072460870)  - Chuck Reply: Collect Command
+﻿2021-11-25 18:25:57 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:26:11 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:27:33 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:28:34 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:28:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:29:00 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:29:32 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - LLL - Present Reply: Message Create Event
+﻿2021-11-25 18:29:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:30:27 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 18:30:36 | HabboSwat - Events Unit [52] (896967095072460870)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 18:30:36 | HabboSwat - Events Unit [52] (896967095072460870)  - Bot Reply: Collect Present Command
+﻿2021-11-25 18:30:39 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - *IDK* - Present Reply: Message Create Event
+﻿2021-11-25 18:30:47 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❦Deαr Evαn❞ - Present Reply: Message Create Event
+﻿2021-11-25 18:31:12 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:31:27 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:31:48 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 18:31:50 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 18:32:12 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:32:16 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 18:32:20 | Bathhouse Café [80] (815055837181378560)  - 👑  Sir Burgy the Special 🍔 - Present Reply: Message Create Event
+﻿2021-11-25 18:32:45 | Bathhouse Café [80] (815055837181378560)  - TheKWitt - Present Reply: Message Create Event
+﻿2021-11-25 18:32:48 | Bathhouse Café [80] (815055837181378560)  - Already Present Reply: Message Create Event
+﻿2021-11-25 18:32:48 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:32:53 | Bathhouse Café [80] (815055837181378560)  - Already Present Reply: Message Create Event
+﻿2021-11-25 18:33:16 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:34:15 | ✨UwU FanClub✨ [28] (908676105865682954)  - First Send: Message Create Event
+﻿2021-11-25 18:34:15 | 🔸 ERROR ✨UwU FanClub✨ [28] (908676105865682954)  - Send Denied: Message Create Event
+﻿2021-11-25 18:34:35 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 18:34:59 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:34:59 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 18:35:02 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:35:15 | 🔸 ERROR ✨UwU FanClub✨ [28] (908676105865682954)  - Edit Denied: Message Create Event
+﻿2021-11-25 18:35:35 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:35:59 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:35:59 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 18:36:00 | MK_Ultraz Axie Empire [184] (847891280695918642)  - Member Fetch: Role Swap
+﻿2021-11-25 18:36:00 | MK_Ultraz Axie Empire [184] (847891280695918642)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 18:36:00 | MK_Ultraz Axie Empire [184] (847891280695918642)  - Bot Reply: Collect Present Command
+﻿2021-11-25 18:36:14 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:36:25 | MK_Ultraz Axie Empire [184] (847891280695918642)  - First Send: Message Create Event
+﻿2021-11-25 18:36:27 | MK_Ultraz Axie Empire [184] (847891280695918642)  - fusciacrab001 - Present Reply: Message Create Event
+﻿2021-11-25 18:36:35 | MK_Ultraz Axie Empire [184] (847891280695918642)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 18:36:35 | MK_Ultraz Axie Empire [184] (847891280695918642)  - Duplicate Reply: Sack Command
+﻿2021-11-25 18:36:35 | MK_Ultraz Axie Empire [184] (847891280695918642)  - Fetch Reply: Sack Command
+﻿2021-11-25 18:36:35 | 🔸 ERROR MK_Ultraz Axie Empire [184] (847891280695918642)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 18:36:52 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 18:36:57 | MK_Ultraz Axie Empire [184] (847891280695918642)  - rmstudies_ - Present Reply: Message Create Event
+﻿2021-11-25 18:36:58 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 18:37:03 | MK_Ultraz Axie Empire [184] (847891280695918642)  - ChrisJay - Present Reply: Message Create Event
+﻿2021-11-25 18:37:14 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:37:17 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:37:20 | MK_Ultraz Axie Empire [184] (847891280695918642)  - thonierose - Present Reply: Message Create Event
+﻿2021-11-25 18:37:25 | MK_Ultraz Axie Empire [184] (847891280695918642)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:37:44 | [Desire] Community/Trading [110] (880822868907282482)  - Lava_Spirit - Present Reply: Message Create Event
+﻿2021-11-25 18:37:46 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 18:37:49 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 18:37:51 | Bathhouse Café [80] (815055837181378560)  - •Pui• - Present Reply: Message Create Event
+﻿2021-11-25 18:37:52 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:38:18 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:38:35 | MK_Ultraz Axie Empire [184] (847891280695918642)  - End Bag Reply: Sack Command
+﻿2021-11-25 18:38:46 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:38:49 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:40:39 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 18:41:39 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:42:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:42:22 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:42:29 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - isolated - Present Reply: Message Create Event
+﻿2021-11-25 18:42:29 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 18:42:29 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - LLL - Present Reply: Message Create Event
+﻿2021-11-25 18:42:34 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - First Send: Message Create Event
+﻿2021-11-25 18:42:41 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Vilky Vodka - Present Reply: Message Create Event
+﻿2021-11-25 18:42:44 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - arson - Present Reply: Message Create Event
+﻿2021-11-25 18:42:45 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:42:48 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 18:42:48 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 18:42:52 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 18:43:19 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:43:34 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:43:45 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:43:48 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:43:48 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:44:11 | Genshin Outlanders [182] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 18:44:19 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:45:19 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 18:45:30 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 18:46:19 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:47:30 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:47:32 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 18:47:32 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 18:47:33 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:47:33 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 18:47:33 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Zay zay - Present Reply: Message Create Event
+﻿2021-11-25 18:47:46 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - 𝐳𝐚𝐜𝐜 - Present Reply: Message Create Event
+﻿2021-11-25 18:48:03 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 18:48:32 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:48:46 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:49:03 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 18:49:03 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:49:27 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:49:34 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 18:49:45 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 18:49:46 | MK_Ultraz Axie Empire [184] (847891280695918642)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-25 18:49:46 | MK_Ultraz Axie Empire [184] (847891280695918642)  - 1st Reply: LB Command
+﻿2021-11-25 18:49:46 | MK_Ultraz Axie Empire [184] (847891280695918642)  - Fetch Reply: LB Command
+﻿2021-11-25 18:49:46 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:49:48 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 18:49:53 | Top.gg stats posted!
+﻿2021-11-25 18:50:03 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:50:27 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:50:35 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:50:45 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:52:30 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 18:52:37 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Thoma <3 - Present Reply: Message Create Event
+﻿2021-11-25 18:52:47 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Official Mobius & Hu Tao simp <3 - Present Reply: Message Create Event
+﻿2021-11-25 18:53:30 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:54:48 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 18:54:54 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 18:54:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 18:55:06 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 18:55:06 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 18:55:07 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 18:55:29 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 18:55:48 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:55:54 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:55:55 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 18:56:07 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:56:29 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:57:24 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 18:57:29 | Bathhouse Café [80] (815055837181378560)  - TheKWitt - Present Reply: Message Create Event
+﻿2021-11-25 18:57:32 | Bathhouse Café [80] (815055837181378560)  - adrianna - Present Reply: Message Create Event
+﻿2021-11-25 18:57:57 | Bathhouse Café [80] (815055837181378560)  - Already Present Reply: Message Create Event
+﻿2021-11-25 18:58:01 | Bathhouse Café [80] (815055837181378560)  - Already Present Reply: Message Create Event
+﻿2021-11-25 18:58:24 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 18:59:53 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 19:00:08 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 19:00:51 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 19:00:53 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:01:08 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:01:12 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 19:01:52 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:02:03 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 19:02:12 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:02:13 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 19:02:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 19:02:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 19:03:03 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:03:13 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:03:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:03:23 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 19:03:55 | geri I priqteli [60] (826882461048373248)  - First Send: Message Create Event
+﻿2021-11-25 19:04:07 | geri I priqteli [60] (826882461048373248)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 19:04:25 | geri I priqteli [60] (826882461048373248)  - Member Fetch: Role Swap
+﻿2021-11-25 19:04:25 | geri I priqteli [60] (826882461048373248)  - toybox - Execution: Interaction Create Event
+﻿2021-11-25 19:04:25 | geri I priqteli [60] (826882461048373248)  - Duplicate Reply: Toybox Command
+﻿2021-11-25 19:04:26 | geri I priqteli [60] (826882461048373248)  - Fetch Reply: Toybox Command
+﻿2021-11-25 19:04:26 | 🔸 ERROR geri I priqteli [60] (826882461048373248)  - Fetch Reply Denied: Toybox Command
+﻿2021-11-25 19:04:28 | geri I priqteli [60] (826882461048373248)  - Last Page Bag Reply: Toybox Command
+﻿2021-11-25 19:04:55 | geri I priqteli [60] (826882461048373248)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:05:33 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 19:05:34 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 19:05:58 | Labour Party - Respublica [202] (729112311138353235)  - h. - Present Reply: Message Create Event
+﻿2021-11-25 19:06:26 | geri I priqteli [60] (826882461048373248)  - End Bag Reply: Toybox Command
+﻿2021-11-25 19:06:27 | Yuuki edits community server [27] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-25 19:06:34 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:06:34 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:07:01 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 19:07:02 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 19:07:07 | HabboSwat - Events Unit [52] (896967095072460870)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:07:07 | HabboSwat - Events Unit [52] (896967095072460870)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:07:07 | HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:07:07 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:07:11 | HabboSwat - Events Unit [52] (896967095072460870)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 19:07:11 | HabboSwat - Events Unit [52] (896967095072460870)  - Chuck Reply: Collect Command
+﻿2021-11-25 19:07:14 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 19:07:21 | HabboSwat - Events Unit [52] (896967095072460870)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 19:07:21 | HabboSwat - Events Unit [52] (896967095072460870)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 19:07:27 | Yuuki edits community server [27] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:07:33 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 19:07:51 | SHRIMP GAMING [109] (691785855815254095)  - 🍍🍍 - Present Reply: Message Create Event
+﻿2021-11-25 19:08:15 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:08:33 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:08:41 | HabboSwat - Events Unit [52] (896967095072460870)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 19:08:41 | HabboSwat - Events Unit [52] (896967095072460870)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 19:09:07 | HabboSwat - Events Unit [52] (896967095072460870)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:09:07 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Edit Denied: Sack Command
+﻿2021-11-25 19:09:12 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 19:09:14 | Bathhouse Café [80] (815055837181378560)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 19:09:17 | Bathhouse Café [80] (815055837181378560)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:09:19 | Bathhouse Café [80] (815055837181378560)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:09:22 | Bathhouse Café [80] (815055837181378560)  - adrianna - Present Reply: Message Create Event
+﻿2021-11-25 19:09:46 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 19:09:57 | HabboSwat - Events Unit [52] (896967095072460870)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 19:09:57 | HabboSwat - Events Unit [52] (896967095072460870)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 19:10:13 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:10:21 | HabboSwat - Events Unit [52] (896967095072460870)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-25 19:10:33 | HabboSwat - Events Unit [52] (896967095072460870)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:10:33 | HabboSwat - Events Unit [52] (896967095072460870)  - Empty Reply: Sack Command
+﻿2021-11-25 19:10:46 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:10:53 | HabboSwat - Events Unit [52] (896967095072460870)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 19:10:53 | HabboSwat - Events Unit [52] (896967095072460870)  - Bot Reply: Collect Present Command
+﻿2021-11-25 19:11:31 | ʚᘏᗢ﹕𝚔𝚒𝚝𝚝𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 [268] (581356438384017408)  - Member Fetch: Role Swap
+﻿2021-11-25 19:11:31 | ʚᘏᗢ﹕𝚔𝚒𝚝𝚝𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 [268] (581356438384017408)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 19:11:31 | ʚᘏᗢ﹕𝚔𝚒𝚝𝚝𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 [268] (581356438384017408)  - Bot Reply: Collect Present Command
+﻿2021-11-25 19:12:02 | ʚᘏᗢ﹕𝚔𝚒𝚝𝚝𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 [268] (581356438384017408)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 19:12:02 | ʚᘏᗢ﹕𝚔𝚒𝚝𝚝𝚢 𝚌𝚘𝚛𝚗𝚎𝚛 [268] (581356438384017408)  - Bot Reply: Collect Present Command
+﻿2021-11-25 19:12:18 | Dank Kuties [216] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 19:12:22 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 19:13:12 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 19:13:15 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 19:13:18 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 19:13:18 | Dank Kuties [216] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:13:23 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:13:34 | HabboSwat - Events Unit [52] (896967095072460870)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:13:34 | HabboSwat - Events Unit [52] (896967095072460870)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:13:34 | HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:13:34 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:13:35 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 19:13:42 | SHRIMP GAMING [109] (691785855815254095)  - SHRIMP - Present Reply: Message Create Event
+﻿2021-11-25 19:13:45 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - First Send: Message Create Event
+﻿2021-11-25 19:13:50 | SHRIMP GAMING [109] (691785855815254095)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:13:51 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - Cuervo - Present Reply: Message Create Event
+﻿2021-11-25 19:13:51 | Sageleafs [33] (910188016121835600)  - Reece <3 - Present Reply: Message Create Event
+﻿2021-11-25 19:14:00 | HabboSwat - Events Unit [52] (896967095072460870)  - Update Reply: Sack Command
+﻿2021-11-25 19:14:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - luhvvu - Present Reply: Message Create Event
+﻿2021-11-25 19:14:07 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - MateGus🧉 - Present Reply: Message Create Event
+﻿2021-11-25 19:14:10 | HabboSwat - Events Unit [52] (896967095072460870)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 19:14:10 | HabboSwat - Events Unit [52] (896967095072460870)  - Bot Reply: Invite Command
+﻿2021-11-25 19:14:12 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:14:18 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:14:36 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:14:45 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:15:17 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 19:15:20 | Labour Party - Respublica [202] (729112311138353235)  - h. - Present Reply: Message Create Event
+﻿2021-11-25 19:15:25 | Labour Party - Respublica [202] (729112311138353235)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:15:25 | Labour Party - Respublica [202] (729112311138353235)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:15:26 | Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:15:26 | 🔸 ERROR Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:15:34 | HabboSwat - Events Unit [52] (896967095072460870)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:15:34 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Edit Denied: Sack Command
+﻿2021-11-25 19:15:52 | Labour Party - Respublica [202] (729112311138353235)  - T-Nats - Present Reply: Message Create Event
+﻿2021-11-25 19:16:08 | HabboSwat - Events Unit [52] (896967095072460870)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:16:08 | HabboSwat - Events Unit [52] (896967095072460870)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:16:08 | HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:16:08 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:16:15 | HabboSwat - Events Unit [52] (896967095072460870)  - Update Reply: Sack Command
+﻿2021-11-25 19:16:17 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:16:35 | Labour Party - Respublica [202] (729112311138353235)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:16:35 | Labour Party - Respublica [202] (729112311138353235)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:16:35 | Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:16:35 | 🔸 ERROR Labour Party - Respublica [202] (729112311138353235)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:17:26 | Labour Party - Respublica [202] (729112311138353235)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:17:27 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 19:17:40 | Genshin Outlanders [182] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 19:18:08 | HabboSwat - Events Unit [52] (896967095072460870)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:18:08 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Edit Denied: Sack Command
+﻿2021-11-25 19:18:27 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:18:33 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 19:18:35 | Labour Party - Respublica [202] (729112311138353235)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:18:43 | geri I priqteli [60] (826882461048373248)  - First Send: Message Create Event
+﻿2021-11-25 19:18:45 | Yuuki edits community server [27] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-25 19:18:51 | Yuuki edits community server [27] (903357360016334848)  - ████.......,?,,””,, - Present Reply: Message Create Event
+﻿2021-11-25 19:18:58 | Yuuki edits community server [27] (903357360016334848)  - Member Fetch: Role Swap
+﻿2021-11-25 19:18:58 | Yuuki edits community server [27] (903357360016334848)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:18:58 | Yuuki edits community server [27] (903357360016334848)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:18:59 | Yuuki edits community server [27] (903357360016334848)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:18:59 | 🔸 ERROR Yuuki edits community server [27] (903357360016334848)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:19:01 | geri I priqteli [60] (826882461048373248)  - Closetto_Gus - Present Reply: Message Create Event
+﻿2021-11-25 19:19:01 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:19:03 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:19:03 | Yuuki edits community server [27] (903357360016334848)  - Last Page Bag Reply: Sack Command
+﻿2021-11-25 19:19:27 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 19:19:33 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:19:37 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 19:19:43 | geri I priqteli [60] (826882461048373248)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:19:45 | Yuuki edits community server [27] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:19:54 | Top.gg stats posted!
+﻿2021-11-25 19:20:16 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 19:20:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - luhvvu - Present Reply: Message Create Event
+﻿2021-11-25 19:20:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 19:20:22 | SHRIMP GAMING [109] (691785855815254095)  - SHRIMP - Present Reply: Message Create Event
+﻿2021-11-25 19:20:22 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 19:20:22 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 19:20:27 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:20:37 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:20:59 | Yuuki edits community server [27] (903357360016334848)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:21:00 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 19:21:02 | Bathhouse Café [80] (815055837181378560)  - TheKWitt - Present Reply: Message Create Event
+﻿2021-11-25 19:21:03 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 19:21:04 | Bathhouse Café [80] (815055837181378560)  - adrianna - Present Reply: Message Create Event
+﻿2021-11-25 19:21:08 | Dank Kuties [216] (869757095233323098)  - card - Execution: Interaction Create Event
+﻿2021-11-25 19:21:08 | Dank Kuties [216] (869757095233323098)  - Bot Reply: Card Command
+﻿2021-11-25 19:21:17 | Dank Kuties [216] (869757095233323098)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-25 19:21:20 | Dank Kuties [216] (869757095233323098)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-25 19:21:20 | Dank Kuties [216] (869757095233323098)  - 1st Reply: LB Command
+﻿2021-11-25 19:21:21 | Dank Kuties [216] (869757095233323098)  - Fetch Reply: LB Command
+﻿2021-11-25 19:21:36 | Bathhouse Café [80] (815055837181378560)  - Empty Edit: Message Create Event
+﻿2021-11-25 19:21:36 | Bathhouse Café [80] (815055837181378560)  - DissociationBunny - Present Reply: Message Create Event
+﻿2021-11-25 19:21:46 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 19:22:03 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:22:07 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 19:22:46 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 19:22:46 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:23:35 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 19:23:38 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 19:23:43 | Labour Party - Respublica [202] (729112311138353235)  - T-Nats - Present Reply: Message Create Event
+﻿2021-11-25 19:23:46 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:24:01 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 19:24:35 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:24:38 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 19:24:38 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:24:43 | Bathhouse Café [80] (815055837181378560)  - adrianna - Present Reply: Message Create Event
+﻿2021-11-25 19:24:45 | Bathhouse Café [80] (815055837181378560)  - DissociationBunny - Present Reply: Message Create Event
+﻿2021-11-25 19:24:53 | Yuuki edits community server [27] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-25 19:24:59 | Yuuki edits community server [27] (903357360016334848)  - ████.......,?,,””,, - Present Reply: Message Create Event
+﻿2021-11-25 19:25:02 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:25:09 | geri I priqteli [60] (826882461048373248)  - First Send: Message Create Event
+﻿2021-11-25 19:25:11 | Bathhouse Café [80] (815055837181378560)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:25:32 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 19:25:37 | Yuuki edits community server [27] (903357360016334848)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:25:38 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:25:40 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 19:25:41 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 19:25:43 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - luhvvu - Present Reply: Message Create Event
+﻿2021-11-25 19:25:44 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - angelina - Present Reply: Message Create Event
+﻿2021-11-25 19:25:45 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 19:25:45 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 19:25:49 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - 𝐳𝐚𝐜𝐜 - Present Reply: Message Create Event
+﻿2021-11-25 19:25:53 | Yuuki edits community server [27] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:26:09 | geri I priqteli [60] (826882461048373248)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:26:24 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 19:26:30 | Sageleafs [33] (910188016121835600)  - Kawaii-chan UwU~ - Present Reply: Message Create Event
+﻿2021-11-25 19:26:32 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:26:41 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:27:25 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:28:03 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 19:28:22 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 19:28:37 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 19:29:04 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:29:37 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:30:05 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 19:31:05 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:31:23 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 19:31:24 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 19:31:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 19:31:49 | Sageleafs [33] (910188016121835600)  - First Send: Message Create Event
+﻿2021-11-25 19:31:56 | Sageleafs [33] (910188016121835600)  - Kawaii-chan UwU~ - Present Reply: Message Create Event
+﻿2021-11-25 19:32:01 | Yuuki edits community server [27] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-25 19:32:14 | Yuuki edits community server [27] (903357360016334848)  - Snoopy505 - Present Reply: Message Create Event
+﻿2021-11-25 19:32:15 | Sociedad Emulapobre [221] (732441604723441715)  - First Send: Message Create Event
+﻿2021-11-25 19:32:23 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:32:24 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:32:24 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 19:32:49 | Sageleafs [33] (910188016121835600)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:33:00 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 19:33:01 | Yuuki edits community server [27] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:33:15 | Sociedad Emulapobre [221] (732441604723441715)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:33:42 | geri I priqteli [60] (826882461048373248)  - First Send: Message Create Event
+﻿2021-11-25 19:33:43 | Sin nombre aun [9] (883885194124341298)  -  has joined us! Configuring database now!
+﻿2021-11-25 19:33:43 | Sin nombre aun [9] (883885194124341298)  - Guild was successfully configured and added to database!
+﻿2021-11-25 19:34:00 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:34:08 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 19:34:17 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - Member Fetch: Role Swap
+﻿2021-11-25 19:34:17 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - help - Execution: Interaction Create Event
+﻿2021-11-25 19:34:17 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - list: Help Command
+﻿2021-11-25 19:34:21 | Sin nombre aun [9] (883885194124341298)  - Member Fetch: Role Swap
+﻿2021-11-25 19:34:21 | Sin nombre aun [9] (883885194124341298)  - No Channel Reply: Interaction Create Event
+﻿2021-11-25 19:34:28 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - settings - Execution: Interaction Create Event
+﻿2021-11-25 19:34:28 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - Confirm Reply: Get Settings Command
+﻿2021-11-25 19:34:43 | geri I priqteli [60] (826882461048373248)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:34:49 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 19:35:09 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:35:21 | Sin nombre aun [9] (883885194124341298)  - help - Execution: Interaction Create Event
+﻿2021-11-25 19:35:21 | Sin nombre aun [9] (883885194124341298)  - profile: Help Command
+﻿2021-11-25 19:35:22 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 19:35:41 | Sin nombre aun [9] (883885194124341298)  - No Channel Reply: Interaction Create Event
+﻿2021-11-25 19:35:59 | Sin nombre aun [9] (883885194124341298)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-25 19:35:59 | Sin nombre aun [9] (883885194124341298)  - Role Created.: Set Channel Command
+﻿2021-11-25 19:35:59 | Sin nombre aun [9] (883885194124341298)  - Confirm Reply: Set Channel Command
+﻿2021-11-25 19:36:21 | Sin nombre aun [9] (883885194124341298)  - card - Execution: Interaction Create Event
+﻿2021-11-25 19:36:21 | Sin nombre aun [9] (883885194124341298)  - Bot Reply: Card Command
+﻿2021-11-25 19:36:22 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:36:40 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  -  has joined us! Configuring database now!
+﻿2021-11-25 19:36:40 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - Guild was successfully configured and added to database!
+﻿2021-11-25 19:37:09 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - First Send: Message Create Event
+﻿2021-11-25 19:37:30 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 19:38:09 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:38:20 | Genshin Outlanders [182] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 19:38:30 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:39:26 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 19:39:30 | SERIES 13TH [45] (870812060005564476)  - First Send: Message Create Event
+﻿2021-11-25 19:39:35 | HabboSwat - Events Unit [52] (896967095072460870)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:39:35 | HabboSwat - Events Unit [52] (896967095072460870)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:39:35 | HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:39:35 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:39:41 | SERIES 13TH [45] (870812060005564476)  - ⛧ΜΙLIΤΙΛ⛧ - Present Reply: Message Create Event
+﻿2021-11-25 19:39:42 | HabboSwat - Events Unit [52] (896967095072460870)  - Update Reply: Sack Command
+﻿2021-11-25 19:39:46 | HabboSwat - Events Unit [52] (896967095072460870)  - Update Reply: Sack Command
+﻿2021-11-25 19:39:49 | HabboSwat - Events Unit [52] (896967095072460870)  - Update Reply: Sack Command
+﻿2021-11-25 19:39:51 | HabboSwat - Events Unit [52] (896967095072460870)  - Update Reply: Sack Command
+﻿2021-11-25 19:39:52 | HabboSwat - Events Unit [52] (896967095072460870)  - First Page Bag Reply: Sack Command
+﻿2021-11-25 19:40:12 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 19:40:26 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:40:30 | SERIES 13TH [45] (870812060005564476)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:40:55 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 19:41:01 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Kazu-Chan - Present Reply: Message Create Event
+﻿2021-11-25 19:41:08 | Genshin Impact: Another Life With You [53] (904925498470174760)  - ଘ੭ ⊹˚₊ Amber ◞﹒﹒໒꒱˚₊ - Present Reply: Message Create Event
+﻿2021-11-25 19:41:35 | HabboSwat - Events Unit [52] (896967095072460870)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:41:35 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Edit Denied: Sack Command
+﻿2021-11-25 19:41:36 | Yuuki edits community server [27] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-25 19:41:55 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:42:04 | Yuuki edits community server [27] (903357360016334848)  - Snoopy505 - Present Reply: Message Create Event
+﻿2021-11-25 19:42:36 | Yuuki edits community server [27] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:42:39 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - Member Fetch: Role Swap
+﻿2021-11-25 19:42:39 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - help - Execution: Interaction Create Event
+﻿2021-11-25 19:42:39 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - setting: Help Command
+﻿2021-11-25 19:42:58 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - No Channel Reply: Interaction Create Event
+﻿2021-11-25 19:43:14 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - setchannel - Execution: Interaction Create Event
+﻿2021-11-25 19:43:14 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - Role Created.: Set Channel Command
+﻿2021-11-25 19:43:14 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - Confirm Reply: Set Channel Command
+﻿2021-11-25 19:43:25 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 19:43:32 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - toothy - Present Reply: Message Create Event
+﻿2021-11-25 19:44:25 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:44:25 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - card - Execution: Interaction Create Event
+﻿2021-11-25 19:44:26 | 𝐑𝐄𝐏𝐔𝐁𝐋𝐈𝐂𝐀 𝐂𝐎𝐋𝐎𝐌𝐁𝐈𝐀 ° 𝟏𝟗𝟒𝟎 | Latamcraft [33] (906269104023957514)  - Bot Reply: Card Command
+﻿2021-11-25 19:45:23 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 19:45:31 | HabboSwat - Events Unit [52] (896967095072460870)  - First Send: Message Create Event
+﻿2021-11-25 19:45:31 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Send Denied: Message Create Event
+﻿2021-11-25 19:45:56 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 19:46:23 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:46:25 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 19:46:31 | 🔸 ERROR HabboSwat - Events Unit [52] (896967095072460870)  - Edit Denied: Message Create Event
+﻿2021-11-25 19:46:57 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:48:17 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 19:48:21 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 19:48:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:48:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 19:48:38 | Yuuki edits community server [27] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-25 19:48:47 | Yuuki edits community server [27] (903357360016334848)  - Yuuki senpai - Present Reply: Message Create Event
+﻿2021-11-25 19:48:58 | Yuuki edits community server [27] (903357360016334848)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:48:58 | Yuuki edits community server [27] (903357360016334848)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:48:58 | Yuuki edits community server [27] (903357360016334848)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:48:58 | 🔸 ERROR Yuuki edits community server [27] (903357360016334848)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:49:02 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:49:06 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:49:08 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 19:49:12 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Kazu-Chan - Present Reply: Message Create Event
+﻿2021-11-25 19:49:18 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:49:38 | Yuuki edits community server [27] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:49:47 | Labour Party - Respublica [202] (729112311138353235)  - First Send: Message Create Event
+﻿2021-11-25 19:49:52 | Labour Party - Respublica [202] (729112311138353235)  - T-Nats - Present Reply: Message Create Event
+﻿2021-11-25 19:49:53 | Top.gg stats posted!
+﻿2021-11-25 19:50:08 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:50:47 | Labour Party - Respublica [202] (729112311138353235)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:50:51 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 19:50:58 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 19:50:59 | Yuuki edits community server [27] (903357360016334848)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:51:12 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Mini_grunt - Present Reply: Message Create Event
+﻿2021-11-25 19:51:15 | PUPIK [21] (910922830097555526)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 19:51:17 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 19:51:21 | PUPIK [21] (910922830097555526)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:51:22 | PUPIK [21] (910922830097555526)  - Already Present Reply: Message Create Event
+﻿2021-11-25 19:51:51 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:51:57 | [Desire] Community/Trading [110] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 19:51:59 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:52:17 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:52:44 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - First Send: Message Create Event
+﻿2021-11-25 19:52:59 | PESOS AND BOBOS [24] (812450588108259400)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-25 19:53:07 | PESOS AND BOBOS [24] (812450588108259400)  - card - Execution: Interaction Create Event
+﻿2021-11-25 19:53:07 | PESOS AND BOBOS [24] (812450588108259400)  - Bot Reply: Card Command
+﻿2021-11-25 19:53:11 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - MateGus🧉 - Present Reply: Message Create Event
+﻿2021-11-25 19:53:45 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:54:18 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 19:55:08 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - First Send: Message Create Event
+﻿2021-11-25 19:55:10 | Yuuki edits community server [27] (903357360016334848)  - First Send: Message Create Event
+﻿2021-11-25 19:55:18 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:55:18 | Yuuki edits community server [27] (903357360016334848)  - Yuuki senpai - Present Reply: Message Create Event
+﻿2021-11-25 19:55:26 | Yuuki edits community server [27] (903357360016334848)  - Snoopy505 - Present Reply: Message Create Event
+﻿2021-11-25 19:55:32 | Yuuki edits community server [27] (903357360016334848)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:55:32 | Yuuki edits community server [27] (903357360016334848)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:55:32 | Yuuki edits community server [27] (903357360016334848)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:55:32 | 🔸 ERROR Yuuki edits community server [27] (903357360016334848)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:55:38 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:55:40 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:55:41 | Yuuki edits community server [27] (903357360016334848)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 19:55:41 | Yuuki edits community server [27] (903357360016334848)  - Duplicate Reply: Sack Command
+﻿2021-11-25 19:55:41 | Yuuki edits community server [27] (903357360016334848)  - Fetch Reply: Sack Command
+﻿2021-11-25 19:55:41 | 🔸 ERROR Yuuki edits community server [27] (903357360016334848)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 19:55:44 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:55:46 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:56:01 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:56:02 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:56:05 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:56:06 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:56:09 | Yuuki edits community server [27] (903357360016334848)  - Last Page Bag Reply: Sack Command
+﻿2021-11-25 19:56:09 | ✬ rock n’ discord ✬ [22] (911013522857660467)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:56:10 | Yuuki edits community server [27] (903357360016334848)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:56:12 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:56:12 | Yuuki edits community server [27] (903357360016334848)  - Update Reply: Sack Command
+﻿2021-11-25 19:56:54 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 19:57:32 | Yuuki edits community server [27] (903357360016334848)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:57:41 | Yuuki edits community server [27] (903357360016334848)  - End Bag Reply: Sack Command
+﻿2021-11-25 19:57:55 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 19:59:49 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 19:59:53 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - ❁𝐀𝐝𝐫𝐢𝐚𝐧𝟎𝟎𝟏❁ - Present Reply: Message Create Event
+﻿2021-11-25 20:00:45 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - *IDK* - Present Reply: Message Create Event
+﻿2021-11-25 20:00:49 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:02:07 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 20:02:56 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:02:58 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 20:03:07 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:03:09 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:03:18 | [Desire] Community/Trading [110] (880822868907282482)  - Lava_Spirit - Present Reply: Message Create Event
+﻿2021-11-25 20:03:34 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:03:36 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:03:50 | [Desire] Community/Trading [110] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 20:03:56 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:03:58 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:04:09 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:04:34 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:07:07 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 20:08:07 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:08:13 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - First Send: Message Create Event
+﻿2021-11-25 20:08:14 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 20:08:18 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - arson - Present Reply: Message Create Event
+﻿2021-11-25 20:09:00 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:09:14 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:09:15 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:10:00 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:11:22 | SERIES 13TH [45] (870812060005564476)  - First Send: Message Create Event
+﻿2021-11-25 20:11:47 | SERIES 13TH [45] (870812060005564476)  - ⛧ΜΙLIΤΙΛ⛧ - Present Reply: Message Create Event
+﻿2021-11-25 20:12:22 | SERIES 13TH [45] (870812060005564476)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:13:00 | Lusty Boys (18+) [132] (904594112857145416)  - First Send: Message Create Event
+﻿2021-11-25 20:14:01 | Lusty Boys (18+) [132] (904594112857145416)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:14:17 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 20:14:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:14:27 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:15:06 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:15:17 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:15:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:15:23 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 20:15:23 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 20:16:06 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:16:24 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:16:35 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:16:35 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:17:45 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:17:46 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:17:54 | lol [2] (860546627236265984)  - First Send: Message Create Event
+﻿2021-11-25 20:17:57 | lol [2] (860546627236265984)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:18:17 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:18:17 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:18:36 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 20:18:39 | Bathhouse Café [80] (815055837181378560)  - adrianna - Present Reply: Message Create Event
+﻿2021-11-25 20:18:54 | lol [2] (860546627236265984)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:19:03 | Lusty Boys (18+) [132] (904594112857145416)  - First Send: Message Create Event
+﻿2021-11-25 20:19:12 | Bathhouse Café [80] (815055837181378560)  - •Pui• - Present Reply: Message Create Event
+﻿2021-11-25 20:19:26 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:19:37 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:19:54 | Top.gg stats posted!
+﻿2021-11-25 20:20:03 | Lusty Boys (18+) [132] (904594112857145416)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:20:24 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:20:26 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:20:27 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:20:27 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 20:20:35 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:20:35 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:20:42 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-25 20:20:45 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 20:20:46 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:20:46 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:21:07 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:21:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:21:25 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 20:21:45 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:22:07 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:22:20 | 🌘~Lumina~🌒 [25] (811790752392282162)  - First Send: Message Create Event
+﻿2021-11-25 20:22:26 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 20:23:02 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 20:23:06 | Bathhouse Café [80] (815055837181378560)  - DissociationBunny - Present Reply: Message Create Event
+﻿2021-11-25 20:23:20 | 🌘~Lumina~🌒 [25] (811790752392282162)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:23:26 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:23:50 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:24:02 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:24:50 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:25:05 | Dank Kuties [215] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 20:25:09 | Dank Kuties [215] (869757095233323098)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 20:26:05 | Dank Kuties [215] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:26:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:26:29 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:26:29 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 20:26:35 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:26:35 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:27:19 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 20:27:23 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:27:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:27:26 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 20:27:43 | PUPIK [21] (910922830097555526)  - RonaldoPatronu - Present Reply: Message Create Event
+﻿2021-11-25 20:27:59 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:27:59 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:28:11 | [Desire] Community/Trading [109] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:28:19 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:28:23 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:28:34 | [Desire] Community/Trading [109] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 20:29:11 | [Desire] Community/Trading [109] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:32:33 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:32:41 | [Desire] Community/Trading [110] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 20:32:55 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:32:55 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 20:32:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - LLL - Present Reply: Message Create Event
+﻿2021-11-25 20:32:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:33:00 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 20:33:01 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 20:33:04 | Bathhouse Café [80] (815055837181378560)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 20:33:09 | 🌘~Lumina~🌒 [25] (811790752392282162)  - First Send: Message Create Event
+﻿2021-11-25 20:33:13 | Bathhouse Café [80] (815055837181378560)  - adrianna - Present Reply: Message Create Event
+﻿2021-11-25 20:33:24 | 🌘~Lumina~🌒 [25] (811790752392282162)  - Momon - Present Reply: Message Create Event
+﻿2021-11-25 20:33:27 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:33:33 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:33:38 | Bathhouse Café [80] (815055837181378560)  - Empty Edit: Message Create Event
+﻿2021-11-25 20:33:39 | Bathhouse Café [80] (815055837181378560)  - TheKWitt - Present Reply: Message Create Event
+﻿2021-11-25 20:33:51 | Genshin Outlanders [182] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 20:33:55 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:33:55 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 20:33:55 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:34:01 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:34:10 | 🌘~Lumina~🌒 [25] (811790752392282162)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:34:27 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:36:55 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:37:04 | [Desire] Community/Trading [110] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 20:37:55 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:38:33 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 20:38:39 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 20:38:56 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:38:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 20:38:58 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - LLL - Present Reply: Message Create Event
+﻿2021-11-25 20:38:59 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 20:38:59 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:39:16 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 20:39:33 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:39:36 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:39:39 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:39:48 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:39:48 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:40:06 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:40:07 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:40:07 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:40:07 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:40:08 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Thoma <3 - Present Reply: Message Create Event
+﻿2021-11-25 20:40:16 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:40:28 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 20:40:33 | Genshin Outlanders [182] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 20:40:37 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:41:17 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:41:28 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:42:02 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 20:42:10 | Bathhouse Café [80] (815055837181378560)  - •Pui• - Present Reply: Message Create Event
+﻿2021-11-25 20:42:17 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:42:34 | 🌘~Lumina~🌒 [25] (811790752392282162)  - First Send: Message Create Event
+﻿2021-11-25 20:43:02 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:43:34 | 🌘~Lumina~🌒 [25] (811790752392282162)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:44:00 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:44:02 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - LLL - Present Reply: Message Create Event
+﻿2021-11-25 20:44:02 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:44:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 20:44:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - ! adrianaa - Present Reply: Message Create Event
+﻿2021-11-25 20:44:09 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:44:09 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:44:21 | The Church of El Risitas [113] (511367372817301506)  - First Send: Message Create Event
+﻿2021-11-25 20:44:21 | 🔸 ERROR The Church of El Risitas [113] (511367372817301506)  - Send Denied: Message Create Event
+﻿2021-11-25 20:44:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:44:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:44:31 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:44:31 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:45:21 | 🔸 ERROR The Church of El Risitas [113] (511367372817301506)  - Edit Denied: Message Create Event
+﻿2021-11-25 20:45:39 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:45:43 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 20:45:48 | [Desire] Community/Trading [110] (880822868907282482)  - Vendii - Present Reply: Message Create Event
+﻿2021-11-25 20:46:37 | PESOS AND BOBOS [24] (812450588108259400)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 20:46:37 | PESOS AND BOBOS [24] (812450588108259400)  - Bot Reply: Invite Command
+﻿2021-11-25 20:46:39 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:46:43 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:47:19 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:47:30 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - help - Execution: Interaction Create Event
+﻿2021-11-25 20:47:30 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - presents: Help Command
+﻿2021-11-25 20:47:36 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 20:48:20 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:48:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - toybox - Execution: Interaction Create Event
+﻿2021-11-25 20:48:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Duplicate Reply: Toybox Command
+﻿2021-11-25 20:48:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply: Toybox Command
+﻿2021-11-25 20:48:23 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply Denied: Toybox Command
+﻿2021-11-25 20:48:25 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Last Page Bag Reply: Toybox Command
+﻿2021-11-25 20:48:32 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - toybox - Execution: Interaction Create Event
+﻿2021-11-25 20:48:32 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Duplicate Reply: Toybox Command
+﻿2021-11-25 20:48:32 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply: Toybox Command
+﻿2021-11-25 20:48:32 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply Denied: Toybox Command
+﻿2021-11-25 20:48:36 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:48:44 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - toybox - Execution: Interaction Create Event
+﻿2021-11-25 20:48:44 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Duplicate Reply: Toybox Command
+﻿2021-11-25 20:48:44 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply: Toybox Command
+﻿2021-11-25 20:48:44 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply Denied: Toybox Command
+﻿2021-11-25 20:48:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Last Page Bag Reply: Toybox Command
+﻿2021-11-25 20:49:04 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:49:07 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:49:07 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 20:49:07 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Already Present Reply: Message Create Event
+﻿2021-11-25 20:49:07 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Already Present Reply: Message Create Event
+﻿2021-11-25 20:49:12 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 20:49:14 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 20:49:14 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Duplicate Reply: Sack Command
+﻿2021-11-25 20:49:14 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply: Sack Command
+﻿2021-11-25 20:49:14 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 20:49:21 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:49:21 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:49:54 | Top.gg stats posted!
+﻿2021-11-25 20:50:04 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:50:04 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:50:04 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 20:50:12 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:50:22 | Lusty Boys (18+) [131] (904594112857145416)  - First Send: Message Create Event
+﻿2021-11-25 20:50:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - End Bag Reply: Toybox Command
+﻿2021-11-25 20:50:32 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - End Bag Reply: Toybox Command
+﻿2021-11-25 20:50:44 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - End Bag Reply: Toybox Command
+﻿2021-11-25 20:51:04 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:51:14 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - End Bag Reply: Sack Command
+﻿2021-11-25 20:51:22 | Lusty Boys (18+) [131] (904594112857145416)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:52:01 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 20:52:41 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 20:53:01 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:53:04 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - First Send: Message Create Event
+﻿2021-11-25 20:53:12 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Vilky Vodka - Present Reply: Message Create Event
+﻿2021-11-25 20:53:42 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:54:03 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 20:54:04 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:54:19 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 20:54:26 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:55:03 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:55:15 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 20:55:17 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 20:55:19 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:55:22 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - LLL - Present Reply: Message Create Event
+﻿2021-11-25 20:55:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 20:55:23 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 20:55:27 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:55:43 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:55:43 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:56:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:56:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:56:19 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 20:56:20 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 20:57:02 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Member Fetch: Role Swap
+﻿2021-11-25 20:57:02 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - help - Execution: Interaction Create Event
+﻿2021-11-25 20:57:02 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - profile: Help Command
+﻿2021-11-25 20:57:33 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 20:57:33 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Bot Reply: Collect Present Command
+﻿2021-11-25 20:57:52 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 20:57:59 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - collectpresent - Execution: Interaction Create Event
+﻿2021-11-25 20:57:59 | ❄ 𝔔𝔲𝔞𝔯𝔞𝔫𝔱𝔦𝔫𝔢 𝔣𝔲𝔠𝔨𝔦𝔫𝔤 𝔰𝔲𝔠𝔨𝔰 ❄ [37] (699929960483258368)  - Bot Reply: Collect Present Command
+﻿2021-11-25 20:58:53 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 20:58:55 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 20:59:55 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:00:23 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 21:00:24 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 21:00:26 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 21:00:28 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 21:00:47 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 21:01:10 | Genshin Outlanders [182] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 21:01:23 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:01:24 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:01:24 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 21:01:47 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:03:09 | Genshin Impact: Another Life With You [53] (904925498470174760)  - First Send: Message Create Event
+﻿2021-11-25 21:03:17 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 21:03:40 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 21:03:42 | Dank Kuties [215] (869757095233323098)  - First Send: Message Create Event
+﻿2021-11-25 21:03:42 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Kazu-Chan - Present Reply: Message Create Event
+﻿2021-11-25 21:03:59 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 21:04:09 | Genshin Impact: Another Life With You [53] (904925498470174760)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:04:17 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:04:42 | Dank Kuties [215] (869757095233323098)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:05:00 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:05:29 | Sociedad Emulapobre [221] (732441604723441715)  - First Send: Message Create Event
+﻿2021-11-25 21:05:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:05:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:05:50 | ZeroSpice [130] (869939833072648233)  - First Send: Message Create Event
+﻿2021-11-25 21:06:25 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 21:06:29 | Sociedad Emulapobre [221] (732441604723441715)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:06:41 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 21:06:43 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 21:06:44 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - First Send: Message Create Event
+﻿2021-11-25 21:06:44 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 21:06:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:06:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:06:51 | ZeroSpice [130] (869939833072648233)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:06:52 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Vilky Vodka - Present Reply: Message Create Event
+﻿2021-11-25 21:06:55 | Genshin Outlanders [182] (800768032669564976)  - First Send: Message Create Event
+﻿2021-11-25 21:07:12 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:07:13 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:07:25 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:07:26 | Genshin Outlanders [182] (800768032669564976)  - katasen - Present Reply: Message Create Event
+﻿2021-11-25 21:07:40 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 21:07:41 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:07:41 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 21:07:42 | [Desire] Community/Trading [110] (880822868907282482)  - fini - Present Reply: Message Create Event
+﻿2021-11-25 21:07:44 | 𝚅𝚒𝚕𝚔𝚢𝚜 𝙳𝚛𝚎𝚊𝚖 [43] (885378649610653727)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:07:55 | Genshin Outlanders [182] (800768032669564976)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:07:56 | [Desire] Community/Trading [110] (880822868907282482)  - Goku-UI - Present Reply: Message Create Event
+﻿2021-11-25 21:08:24 | [Desire] Community/Trading [110] (880822868907282482)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 21:08:24 | [Desire] Community/Trading [110] (880822868907282482)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 21:08:31 | [Desire] Community/Trading [110] (880822868907282482)  - leaderboard - Execution: Interaction Create Event
+﻿2021-11-25 21:08:31 | [Desire] Community/Trading [110] (880822868907282482)  - 1st Reply: LB Command
+﻿2021-11-25 21:08:31 | [Desire] Community/Trading [110] (880822868907282482)  - Fetch Reply: LB Command
+﻿2021-11-25 21:08:40 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:10:19 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 21:10:39 | SERIES 13TH [45] (870812060005564476)  - First Send: Message Create Event
+﻿2021-11-25 21:11:09 | SERIES 13TH [45] (870812060005564476)  - ⛧ΜΙLIΤΙΛ⛧ - Present Reply: Message Create Event
+﻿2021-11-25 21:11:19 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:11:39 | SERIES 13TH [45] (870812060005564476)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:12:09 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 21:12:10 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - First Send: Message Create Event
+﻿2021-11-25 21:12:17 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - MateGus🧉 - Present Reply: Message Create Event
+﻿2021-11-25 21:12:27 | PUPIK [21] (910922830097555526)  - First Send: Message Create Event
+﻿2021-11-25 21:12:42 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 21:12:48 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 21:12:48 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Present Failed Reply: Message Create Event
+﻿2021-11-25 21:12:50 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Already Present Reply: Message Create Event
+﻿2021-11-25 21:12:53 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:12:53 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:13:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:13:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:13:09 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:13:10 | Comunidad Navideña NGS 🎄🎅 [109] (693897990393298975)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:13:19 | HabboSwat - Events Unit [52] (896967095072460870)  - collectcoal - Execution: Interaction Create Event
+﻿2021-11-25 21:13:19 | HabboSwat - Events Unit [52] (896967095072460870)  - Chuck Reply: Collect Command
+﻿2021-11-25 21:13:26 | HabboSwat - Events Unit [52] (896967095072460870)  - chuck - Execution: Interaction Create Event
+﻿2021-11-25 21:13:26 | HabboSwat - Events Unit [52] (896967095072460870)  - Gave ID Reply: Chuck Command
+﻿2021-11-25 21:13:27 | PUPIK [21] (910922830097555526)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:13:36 | SERIES 13TH [45] (870812060005564476)  - First Send: Message Create Event
+﻿2021-11-25 21:13:37 | Juegos Juegos [40] (799761924094165043)  - First Send: Message Create Event
+﻿2021-11-25 21:13:43 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:13:43 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Edit Denied: Message Create Event
+﻿2021-11-25 21:13:51 | SERIES 13TH [45] (870812060005564476)  - ⛧ΜΙLIΤΙΛ⛧ - Present Reply: Message Create Event
+﻿2021-11-25 21:14:05 | HabboSwat - Events Unit [52] (896967095072460870)  - Cooldown Reply: Interaction Create Event
+﻿2021-11-25 21:14:37 | SERIES 13TH [45] (870812060005564476)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:14:38 | Juegos Juegos [40] (799761924094165043)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:14:56 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - First Send: Message Create Event
+﻿2021-11-25 21:15:46 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:15:46 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:15:51 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - First Send: Message Create Event
+﻿2021-11-25 21:15:57 | 𝗥𝗢𝗚 🎅 [49] (575291250643697684)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:16:20 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:16:21 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:16:33 | [Desire] Community/Trading [110] (880822868907282482)  - First Send: Message Create Event
+﻿2021-11-25 21:16:38 | SHRIMP GAMING [109] (691785855815254095)  - First Send: Message Create Event
+﻿2021-11-25 21:16:38 | abby christmas nem [33] (856260682008756254)  - First Send: Message Create Event
+﻿2021-11-25 21:16:51 | ᗰᑌᒪT1 ᑕᖇᗴᗯ [35] (900357493337768026)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:17:34 | [Desire] Community/Trading [110] (880822868907282482)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:17:38 | SHRIMP GAMING [109] (691785855815254095)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:17:38 | abby christmas nem [33] (856260682008756254)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:18:45 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - First Send: Message Create Event
+﻿2021-11-25 21:18:48 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - ! adrianaa - Present Reply: Message Create Event
+﻿2021-11-25 21:18:48 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - dannyy<3 - Present Reply: Message Create Event
+﻿2021-11-25 21:18:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Empty Edit: Message Create Event
+﻿2021-11-25 21:18:49 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - , dodger - Present Reply: Message Create Event
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Duplicate Reply: Sack Command
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - sack - Execution: Interaction Create Event
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Duplicate Reply: Sack Command
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply: Sack Command
+﻿2021-11-25 21:18:57 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 21:18:57 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply: Sack Command
+﻿2021-11-25 21:18:57 | 🔸 ERROR 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Fetch Reply Denied: Sack Command
+﻿2021-11-25 21:19:01 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:19:02 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:19:02 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - card - Execution: Interaction Create Event
+﻿2021-11-25 21:19:03 | 𝐋𝐔𝐕𝐀𝐁𝐋𝐄 (𝐂𝐇𝐑𝐈𝐒𝐓𝐌𝐀𝐒!!) [119] (862786915769647145)  - Bot Reply: Card Command
+﻿2021-11-25 21:19:21 | Bathhouse Café [80] (815055837181378560)  - First Send: Message Create Event
+﻿2021-11-25 21:19:49 | Bathhouse Café [80] (815055837181378560)  - 👑  Sir Burgy the Special 🍔 - Present Reply: Message Create Event
+﻿2021-11-25 21:19:49 | Juegos Juegos [40] (799761924094165043)  - First Send: Message Create Event
+﻿2021-11-25 21:19:54 | Top.gg stats posted!
+﻿2021-11-25 21:19:54 | Bathhouse Café [80] (815055837181378560)  - TheKWitt - Present Reply: Message Create Event
+﻿2021-11-25 21:19:56 | 🌘~Lumina~🌒 [25] (811790752392282162)  - First Send: Message Create Event
+﻿2021-11-25 21:20:21 | Bathhouse Café [80] (815055837181378560)  - Expired Edit: Message Create Event
+﻿2021-11-25 21:20:22 | 🌘~Lumina~🌒 [25] (811790752392282162)  - Momon - Present Reply: Message Create Event
+﻿2021-11-25 21:20:49 | Juegos Juegos [40] (799761924094165043)  - Expired Edit: Message Create Event
